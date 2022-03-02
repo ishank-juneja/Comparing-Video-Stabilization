@@ -1,0 +1,2466 @@
+no change     /home/ishank/anaconda3/condabin/conda
+no change     /home/ishank/anaconda3/bin/conda
+no change     /home/ishank/anaconda3/bin/conda-env
+no change     /home/ishank/anaconda3/bin/activate
+no change     /home/ishank/anaconda3/bin/deactivate
+no change     /home/ishank/anaconda3/etc/profile.d/conda.sh
+no change     /home/ishank/anaconda3/etc/fish/conf.d/conda.fish
+no change     /home/ishank/anaconda3/shell/condabin/Conda.psm1
+no change     /home/ishank/anaconda3/shell/condabin/conda-hook.ps1
+no change     /home/ishank/anaconda3/lib/python3.8/site-packages/xontrib/conda.xsh
+no change     /home/ishank/anaconda3/etc/profile.d/conda.csh
+no change     /home/ishank/.bashrc
+No action taken.
+Currently running L1-optimal paths 
+- - - - - - - - - - - - 
+
+
+Currently running on ../dataset-512x288/big-bot/run0.avi
+
+Number of frames in file are 505
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot/run0.avi
+
+Number of frames in file are 505
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot/run0.avi
+
+Number of frames in file are 505
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot/run0.avi
+
+Number of frames in file are 505
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Results for video ../dataset-512x288/big-bot/run10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run6.avi exist, ... skipping run
+
+Currently running on ../dataset-512x288/big-bot/run7.avi
+
+Number of frames in file are 369
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot/run7.avi
+
+Number of frames in file are 369
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot/run7.avi
+
+Number of frames in file are 369
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot/run7.avi
+
+Number of frames in file are 369
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Results for video ../dataset-512x288/big-bot/run8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot/run9.avi exist, ... skipping run
+
+Currently running on ../dataset-512x288/big-bot-db/run0_db.avi
+
+Number of frames in file are 505
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run0_db.avi
+
+Number of frames in file are 505
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run0_db.avi
+
+Number of frames in file are 505
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run0_db.avi
+
+Number of frames in file are 505
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run10_db.avi
+
+Number of frames in file are 540
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run10_db.avi
+
+Number of frames in file are 540
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run10_db.avi
+
+Number of frames in file are 540
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run10_db.avi
+
+Number of frames in file are 540
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run11_db.avi
+
+Number of frames in file are 432
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run11_db.avi
+
+Number of frames in file are 432
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run11_db.avi
+
+Number of frames in file are 432
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run11_db.avi
+
+Number of frames in file are 432
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run13_db.avi
+
+Number of frames in file are 775
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run13_db.avi
+
+Number of frames in file are 775
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run13_db.avi
+
+Number of frames in file are 775
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run13_db.avi
+
+Number of frames in file are 775
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run1_db.avi
+
+Number of frames in file are 485
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run1_db.avi
+
+Number of frames in file are 485
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run1_db.avi
+
+Number of frames in file are 485
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run1_db.avi
+
+Number of frames in file are 485
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run2_db.avi
+
+Number of frames in file are 490
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run2_db.avi
+
+Number of frames in file are 490
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run2_db.avi
+
+Number of frames in file are 490
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run2_db.avi
+
+Number of frames in file are 490
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run3_db.avi
+
+Number of frames in file are 444
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run3_db.avi
+
+Number of frames in file are 444
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run3_db.avi
+
+Number of frames in file are 444
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run3_db.avi
+
+Number of frames in file are 444
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run4_db.avi
+
+Number of frames in file are 384
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run4_db.avi
+
+Number of frames in file are 384
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run4_db.avi
+
+Number of frames in file are 384
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run4_db.avi
+
+Number of frames in file are 384
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run5_db.avi
+
+Number of frames in file are 381
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run5_db.avi
+
+Number of frames in file are 381
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run5_db.avi
+
+Number of frames in file are 381
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run5_db.avi
+
+Number of frames in file are 381
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run6_db.avi
+
+Number of frames in file are 474
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run6_db.avi
+
+Number of frames in file are 474
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run6_db.avi
+
+Number of frames in file are 474
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run6_db.avi
+
+Number of frames in file are 474
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run7_db.avi
+
+Number of frames in file are 369
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run7_db.avi
+
+Number of frames in file are 369
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run7_db.avi
+
+Number of frames in file are 369
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run7_db.avi
+
+Number of frames in file are 369
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run8_db.avi
+
+Number of frames in file are 487
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run8_db.avi
+
+Number of frames in file are 487
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run8_db.avi
+
+Number of frames in file are 487
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run8_db.avi
+
+Number of frames in file are 487
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run9_db.avi
+
+Number of frames in file are 386
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run9_db.avi
+
+Number of frames in file are 386
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run9_db.avi
+
+Number of frames in file are 386
+Solution converged
+Currently running on ../dataset-512x288/big-bot-db/run9_db.avi
+
+Number of frames in file are 386
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped/run0_clipped.avi
+
+Number of frames in file are 433
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot-clipped/run0_clipped.avi
+
+Number of frames in file are 433
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot-clipped/run0_clipped.avi
+
+Number of frames in file are 433
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot-clipped/run0_clipped.avi
+
+Number of frames in file are 433
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Results for video ../dataset-512x288/big-bot-clipped/run10_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run10_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run10_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run10_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run11_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run11_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run11_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run11_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run13_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run13_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run13_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run13_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run1_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run1_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run1_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run1_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run2_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run2_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run2_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run2_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run3_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run3_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run3_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run3_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run4_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run4_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run4_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run4_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run5_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run5_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run5_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run5_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run6_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run6_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run6_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run6_clipped.avi exist, ... skipping run
+
+Currently running on ../dataset-512x288/big-bot-clipped/run7_clipped.avi
+
+Number of frames in file are 369
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot-clipped/run7_clipped.avi
+
+Number of frames in file are 369
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot-clipped/run7_clipped.avi
+
+Number of frames in file are 369
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Currently running on ../dataset-512x288/big-bot-clipped/run7_clipped.avi
+
+Number of frames in file are 369
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 93, in get_inter_frame_transforms
+    F_transforms[i + 1, :, :2] = m.T
+AttributeError: 'NoneType' object has no attribute 'T'
+Results for video ../dataset-512x288/big-bot-clipped/run8_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run8_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run8_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run8_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run9_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run9_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run9_clipped.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/big-bot-clipped/run9_clipped.avi exist, ... skipping run
+
+Currently running on ../dataset-512x288/big-bot-clipped-db/run0_clipped_db.avi
+
+Number of frames in file are 433
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run0_clipped_db.avi
+
+Number of frames in file are 433
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run0_clipped_db.avi
+
+Number of frames in file are 433
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run0_clipped_db.avi
+
+Number of frames in file are 433
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run10_clipped_db.avi
+
+Number of frames in file are 361
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run10_clipped_db.avi
+
+Number of frames in file are 361
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run10_clipped_db.avi
+
+Number of frames in file are 361
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run10_clipped_db.avi
+
+Number of frames in file are 361
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run11_clipped_db.avi
+
+Number of frames in file are 379
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run11_clipped_db.avi
+
+Number of frames in file are 379
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run11_clipped_db.avi
+
+Number of frames in file are 379
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run11_clipped_db.avi
+
+Number of frames in file are 379
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run13_clipped_db.avi
+
+Number of frames in file are 531
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run13_clipped_db.avi
+
+Number of frames in file are 531
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run13_clipped_db.avi
+
+Number of frames in file are 531
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run13_clipped_db.avi
+
+Number of frames in file are 531
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run1_clipped_db.avi
+
+Number of frames in file are 389
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run1_clipped_db.avi
+
+Number of frames in file are 389
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run1_clipped_db.avi
+
+Number of frames in file are 389
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run1_clipped_db.avi
+
+Number of frames in file are 389
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run2_clipped_db.avi
+
+Number of frames in file are 394
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run2_clipped_db.avi
+
+Number of frames in file are 394
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run2_clipped_db.avi
+
+Number of frames in file are 394
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run2_clipped_db.avi
+
+Number of frames in file are 394
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run3_clipped_db.avi
+
+Number of frames in file are 346
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run3_clipped_db.avi
+
+Number of frames in file are 346
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run3_clipped_db.avi
+
+Number of frames in file are 346
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run3_clipped_db.avi
+
+Number of frames in file are 346
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run4_clipped_db.avi
+
+Number of frames in file are 312
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run4_clipped_db.avi
+
+Number of frames in file are 312
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run4_clipped_db.avi
+
+Number of frames in file are 312
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run4_clipped_db.avi
+
+Number of frames in file are 312
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run5_clipped_db.avi
+
+Number of frames in file are 344
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run5_clipped_db.avi
+
+Number of frames in file are 344
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run5_clipped_db.avi
+
+Number of frames in file are 344
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run5_clipped_db.avi
+
+Number of frames in file are 344
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run6_clipped_db.avi
+
+Number of frames in file are 402
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run6_clipped_db.avi
+
+Number of frames in file are 402
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run6_clipped_db.avi
+
+Number of frames in file are 402
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run6_clipped_db.avi
+
+Number of frames in file are 402
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run7_clipped_db.avi
+
+Number of frames in file are 369
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run7_clipped_db.avi
+
+Number of frames in file are 369
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run7_clipped_db.avi
+
+Number of frames in file are 369
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run7_clipped_db.avi
+
+Number of frames in file are 369
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run8_clipped_db.avi
+
+Number of frames in file are 408
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run8_clipped_db.avi
+
+Number of frames in file are 408
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run8_clipped_db.avi
+
+Number of frames in file are 408
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run8_clipped_db.avi
+
+Number of frames in file are 408
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run9_clipped_db.avi
+
+Number of frames in file are 386
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run9_clipped_db.avi
+
+Number of frames in file are 386
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run9_clipped_db.avi
+
+Number of frames in file are 386
+Solution converged
+Currently running on ../dataset-512x288/big-bot-clipped-db/run9_clipped_db.avi
+
+Number of frames in file are 386
+Solution converged
+Results for video ../dataset-512x288/DeepStab/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/28.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/28.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/28.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/28.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/29.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/29.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/29.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/29.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/30.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/30.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/30.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/30.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/31.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/31.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/31.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/31.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/32.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/32.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/32.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/32.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/33.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/33.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/33.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/33.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/34.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/34.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/34.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/34.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/35.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/35.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/35.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/35.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/36.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/36.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/36.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/36.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/37.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/37.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/37.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/37.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/38.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/38.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/38.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/38.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/39.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/39.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/39.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/39.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/40.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/40.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/40.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/40.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/41.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/41.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/41.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/41.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/42.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/42.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/42.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/42.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/43.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/43.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/43.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/43.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/44.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/44.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/44.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/44.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/45.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/45.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/45.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/45.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/46.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/46.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/46.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/46.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/47.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/47.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/47.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/47.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/48.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/48.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/48.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/48.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/49.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/49.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/49.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/49.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/50.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/50.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/50.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/50.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/51.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/51.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/51.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/51.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/52.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/52.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/52.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/52.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/53.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/53.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/53.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/53.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/54.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/54.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/54.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/54.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/55.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/55.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/55.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/55.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/56.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/56.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/56.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/56.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/57.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/57.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/57.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/57.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/58.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/58.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/58.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/58.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/59.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/59.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/59.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/59.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/60.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/60.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/60.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/60.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/61.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/61.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/61.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/61.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/DeepStab/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Crowd/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/2.avi exist, ... skipping run
+
+Currently running on ../dataset-512x288/Parallax/unstable/3.avi
+
+Number of frames in file are 140
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 78, in get_inter_frame_transforms
+    curr_pts, status, err = cv.calcOpticalFlowPyrLK(prev_gray, curr_gray, prev_pts, None)
+cv2.error: OpenCV(3.4.2) /io/opencv/modules/video/src/lkpyramid.cpp:1244: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, 5, true)) >= 0 in function 'calc'
+
+Currently running on ../dataset-512x288/Parallax/unstable/3.avi
+
+Number of frames in file are 140
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 78, in get_inter_frame_transforms
+    curr_pts, status, err = cv.calcOpticalFlowPyrLK(prev_gray, curr_gray, prev_pts, None)
+cv2.error: OpenCV(3.4.2) /io/opencv/modules/video/src/lkpyramid.cpp:1244: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, 5, true)) >= 0 in function 'calc'
+
+Currently running on ../dataset-512x288/Parallax/unstable/3.avi
+
+Number of frames in file are 140
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 78, in get_inter_frame_transforms
+    curr_pts, status, err = cv.calcOpticalFlowPyrLK(prev_gray, curr_gray, prev_pts, None)
+cv2.error: OpenCV(3.4.2) /io/opencv/modules/video/src/lkpyramid.cpp:1244: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, 5, true)) >= 0 in function 'calc'
+
+Currently running on ../dataset-512x288/Parallax/unstable/3.avi
+
+Number of frames in file are 140
+Traceback (most recent call last):
+  File "L1optimal.py", line 242, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 180, in main
+    get_inter_frame_transforms(cap, F_transforms, prev_gray)
+  File "L1optimal.py", line 78, in get_inter_frame_transforms
+    curr_pts, status, err = cv.calcOpticalFlowPyrLK(prev_gray, curr_gray, prev_pts, None)
+cv2.error: OpenCV(3.4.2) /io/opencv/modules/video/src/lkpyramid.cpp:1244: error: (-215:Assertion failed) (npoints = prevPtsMat.checkVector(2, 5, true)) >= 0 in function 'calc'
+
+Results for video ../dataset-512x288/Parallax/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Parallax/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/28.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/28.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/28.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/28.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/QuickRotation/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Regular/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Running/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/23.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/24.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/25.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/26.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/27.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/29.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/29.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/29.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/29.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset-512x288/Zooming/unstable/9.avi exist, ... skipping run
+
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.

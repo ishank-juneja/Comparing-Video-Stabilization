@@ -1,0 +1,2337 @@
+no change     /home/ishank/anaconda3/condabin/conda
+no change     /home/ishank/anaconda3/bin/conda
+no change     /home/ishank/anaconda3/bin/conda-env
+no change     /home/ishank/anaconda3/bin/activate
+no change     /home/ishank/anaconda3/bin/deactivate
+no change     /home/ishank/anaconda3/etc/profile.d/conda.sh
+no change     /home/ishank/anaconda3/etc/fish/conf.d/conda.fish
+no change     /home/ishank/anaconda3/shell/condabin/Conda.psm1
+no change     /home/ishank/anaconda3/shell/condabin/conda-hook.ps1
+no change     /home/ishank/anaconda3/lib/python3.8/site-packages/xontrib/conda.xsh
+no change     /home/ishank/anaconda3/etc/profile.d/conda.csh
+no change     /home/ishank/.bashrc
+No action taken.
+Results for video ../dataset/big-bot/avi_rotated/run0.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run10.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run11.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run13.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run1.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run2.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run3.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run4.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run5.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run6.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run7.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run8.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run9.avi exist, ... skipping run
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/0.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 29.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/0_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.091091064415452
+Video length processed in frames: 100
+Mean fps till here=3.4143705650946
+Video length processed in frames: 150
+Mean fps till here=3.501375624777865
+Video length processed in frames: 200
+Mean fps till here=3.522637184627195
+Cut Path .../results/DeepLearning/SIGGRAPH-out/0_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/10.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/10_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.744485293059162
+Video length processed in frames: 100
+Mean fps till here=2.830028201406889
+Video length processed in frames: 150
+Mean fps till here=2.8622423056301645
+Video length processed in frames: 200
+Mean fps till here=2.8552120089899713
+Video length processed in frames: 250
+Mean fps till here=2.8762574955193365
+Video length processed in frames: 300
+Mean fps till here=2.970471376948584
+Video length processed in frames: 350
+Mean fps till here=3.0404985726516243
+Video length processed in frames: 400
+Mean fps till here=3.0923294026898813
+Cut Path .../results/DeepLearning/SIGGRAPH-out/10_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/11.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/11_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.0494204856096614
+Video length processed in frames: 100
+Mean fps till here=3.2769544264773476
+Video length processed in frames: 150
+Mean fps till here=3.36467824584007
+Video length processed in frames: 200
+Mean fps till here=3.4096700053010673
+Video length processed in frames: 250
+Mean fps till here=3.431650145791525
+Video length processed in frames: 300
+Mean fps till here=3.4498922052626577
+Video length processed in frames: 350
+Mean fps till here=3.456738761568457
+Video length processed in frames: 400
+Mean fps till here=3.460996783740419
+Cut Path .../results/DeepLearning/SIGGRAPH-out/11_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/12.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/12_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.009920118319034
+Video length processed in frames: 100
+Mean fps till here=3.256483966829874
+Video length processed in frames: 150
+Mean fps till here=3.3455314875367566
+Video length processed in frames: 200
+Mean fps till here=3.390343490824162
+Video length processed in frames: 250
+Mean fps till here=3.414720252198266
+Video length processed in frames: 300
+Mean fps till here=3.4303029949786072
+Video length processed in frames: 350
+Mean fps till here=3.4378189123715277
+Video length processed in frames: 400
+Mean fps till here=3.4424782837396966
+Video length processed in frames: 450
+Mean fps till here=3.4473148328219514
+Cut Path .../results/DeepLearning/SIGGRAPH-out/12_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/13.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/13_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.0082721344225214
+Video length processed in frames: 100
+Mean fps till here=3.2646196276546977
+Video length processed in frames: 150
+Mean fps till here=3.340858650380417
+Video length processed in frames: 200
+Mean fps till here=3.2755935835288414
+Video length processed in frames: 250
+Mean fps till here=3.2628955377416617
+Video length processed in frames: 300
+Mean fps till here=3.2900123726822916
+Video length processed in frames: 350
+Mean fps till here=3.275260386360391
+Video length processed in frames: 400
+Mean fps till here=3.209877078443505
+Video length processed in frames: 450
+Mean fps till here=3.178977471094645
+Video length processed in frames: 500
+Mean fps till here=3.189069970699878
+Cut Path .../results/DeepLearning/SIGGRAPH-out/13_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/14.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/14_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.9583509888146327
+Video length processed in frames: 100
+Mean fps till here=3.1197498662617624
+Video length processed in frames: 150
+Mean fps till here=3.2064861509281544
+Video length processed in frames: 200
+Mean fps till here=3.237393722780371
+Video length processed in frames: 250
+Mean fps till here=3.2319175828468376
+Cut Path .../results/DeepLearning/SIGGRAPH-out/14_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/15.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/15_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.8209872589128597
+Video length processed in frames: 100
+Mean fps till here=3.064099836478492
+Video length processed in frames: 150
+Mean fps till here=3.178163622847971
+Video length processed in frames: 200
+Mean fps till here=3.2272161311009158
+Video length processed in frames: 250
+Mean fps till here=3.2671346314239442
+Video length processed in frames: 300
+Mean fps till here=3.300949124869585
+Video length processed in frames: 350
+Mean fps till here=3.3238652342995296
+Video length processed in frames: 400
+Mean fps till here=3.3372195119224646
+Video length processed in frames: 450
+Mean fps till here=3.3445295215319053
+Cut Path .../results/DeepLearning/SIGGRAPH-out/15_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/16.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/16_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.008459384072557
+Video length processed in frames: 100
+Mean fps till here=3.252271016278088
+Video length processed in frames: 150
+Mean fps till here=3.3352098249697315
+Video length processed in frames: 200
+Mean fps till here=3.374063930032038
+Video length processed in frames: 250
+Mean fps till here=3.3882757218545585
+Video length processed in frames: 300
+Mean fps till here=3.3984810290576375
+Video length processed in frames: 350
+Mean fps till here=3.4096790751113955
+Video length processed in frames: 400
+Mean fps till here=3.4162254623250936
+Video length processed in frames: 450
+Mean fps till here=3.41403073505445
+Video length processed in frames: 500
+Mean fps till here=3.3363830946422888
+Video length processed in frames: 550
+Mean fps till here=3.2679320810163968
+Video length processed in frames: 600
+Mean fps till here=3.267170219974763
+Cut Path .../results/DeepLearning/SIGGRAPH-out/16_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/17.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/17_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.814050311760623
+Video length processed in frames: 100
+Mean fps till here=2.916916961010636
+Video length processed in frames: 150
+Mean fps till here=2.9348559032817736
+Video length processed in frames: 200
+Mean fps till here=2.9478074507334804
+Video length processed in frames: 250
+Mean fps till here=3.0140458181035523
+Video length processed in frames: 300
+Mean fps till here=3.0640775193705574
+Video length processed in frames: 350
+Mean fps till here=3.068354231841912
+Video length processed in frames: 400
+Mean fps till here=3.027413785645349
+Video length processed in frames: 450
+Mean fps till here=3.051017925271511
+Cut Path .../results/DeepLearning/SIGGRAPH-out/17_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/18.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 29.97
+Output path is .../results/DeepLearning/SIGGRAPH-out/18_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.4611434216274466
+Video length processed in frames: 100
+Mean fps till here=2.878945064051919
+Video length processed in frames: 150
+Mean fps till here=2.555397248754339
+Video length processed in frames: 200
+Mean fps till here=2.6319485645841367
+Cut Path .../results/DeepLearning/SIGGRAPH-out/18_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/19.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 25.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/19_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.655036499991328
+Video length processed in frames: 100
+Mean fps till here=2.8927508689641384
+Video length processed in frames: 150
+Mean fps till here=2.776593732367442
+Video length processed in frames: 200
+Mean fps till here=2.7575272712517256
+Video length processed in frames: 250
+Mean fps till here=2.8601964581512447
+Video length processed in frames: 300
+Mean fps till here=2.9205974543873205
+Cut Path .../results/DeepLearning/SIGGRAPH-out/19_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/1.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 29.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/1_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.3067824211324583
+Video length processed in frames: 100
+Mean fps till here=2.5949400344718425
+Video length processed in frames: 150
+Mean fps till here=2.7545598069028467
+Video length processed in frames: 200
+Mean fps till here=2.891578401928525
+Video length processed in frames: 250
+Mean fps till here=2.9313032111431254
+Video length processed in frames: 300
+Mean fps till here=2.9927040039422628
+Video length processed in frames: 350
+Mean fps till here=3.0468263749359457
+Video length processed in frames: 400
+Mean fps till here=3.082048820402565
+Video length processed in frames: 450
+Mean fps till here=3.095565475867144
+Cut Path .../results/DeepLearning/SIGGRAPH-out/1_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/20.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 25.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/20_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.4629937639216006
+Video length processed in frames: 100
+Mean fps till here=2.431543926715401
+Video length processed in frames: 150
+Mean fps till here=2.473110518360593
+Video length processed in frames: 200
+Mean fps till here=2.539019937543789
+Video length processed in frames: 250
+Mean fps till here=2.66573456528511
+Video length processed in frames: 300
+Mean fps till here=2.738590392854116
+Video length processed in frames: 350
+Mean fps till here=2.804727601486185
+Video length processed in frames: 400
+Mean fps till here=2.84141429430822
+Cut Path .../results/DeepLearning/SIGGRAPH-out/20_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/21.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 25.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/21_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.763865113178663
+Video length processed in frames: 100
+Mean fps till here=3.1004786610238297
+Video length processed in frames: 150
+Mean fps till here=3.121485854129939
+Video length processed in frames: 200
+Mean fps till here=3.1893608080071334
+Video length processed in frames: 250
+Mean fps till here=3.236755708028643
+Video length processed in frames: 300
+Mean fps till here=3.271070575074736
+Video length processed in frames: 350
+Mean fps till here=3.2890026329180264
+Video length processed in frames: 400
+Mean fps till here=3.2986862420251253
+Cut Path .../results/DeepLearning/SIGGRAPH-out/21_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/22.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 25.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/22_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.990061638568754
+Video length processed in frames: 100
+Mean fps till here=3.2388229787363905
+Video length processed in frames: 150
+Mean fps till here=3.3271869890790082
+Video length processed in frames: 200
+Mean fps till here=3.3359568353064426
+Video length processed in frames: 250
+Mean fps till here=3.261312921795447
+Video length processed in frames: 300
+Mean fps till here=3.258599238215849
+Video length processed in frames: 350
+Mean fps till here=3.1419102401807186
+Video length processed in frames: 400
+Mean fps till here=3.15624198057107
+Cut Path .../results/DeepLearning/SIGGRAPH-out/22_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/2.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/2_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.92977550716997
+Video length processed in frames: 100
+Mean fps till here=3.200761313894058
+Video length processed in frames: 150
+Mean fps till here=3.2989038239824535
+Video length processed in frames: 200
+Mean fps till here=3.3189733254084146
+Video length processed in frames: 250
+Mean fps till here=3.3547606967486194
+Video length processed in frames: 300
+Mean fps till here=3.37889094614294
+Video length processed in frames: 350
+Mean fps till here=3.396999152625958
+Video length processed in frames: 400
+Mean fps till here=3.40805186526227
+Cut Path .../results/DeepLearning/SIGGRAPH-out/2_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/3.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/3_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.022623003264052
+Video length processed in frames: 100
+Mean fps till here=3.259817851565634
+Video length processed in frames: 150
+Mean fps till here=3.349349759243606
+Video length processed in frames: 200
+Mean fps till here=3.392447721207532
+Video length processed in frames: 250
+Mean fps till here=3.416473987101183
+Video length processed in frames: 300
+Mean fps till here=3.4323317607553814
+Video length processed in frames: 350
+Mean fps till here=3.4433373248428794
+Video length processed in frames: 400
+Mean fps till here=3.4510631455872876
+Video length processed in frames: 450
+Mean fps till here=3.4511261984224446
+Video length processed in frames: 500
+Mean fps till here=3.453358261446525
+Video length processed in frames: 550
+Mean fps till here=3.4510282546143602
+Cut Path .../results/DeepLearning/SIGGRAPH-out/3_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/4.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 29.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/4_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.9702792062623846
+Video length processed in frames: 100
+Mean fps till here=3.230230026075786
+Video length processed in frames: 150
+Mean fps till here=3.3118852498669735
+Video length processed in frames: 200
+Mean fps till here=3.3532889532843195
+Video length processed in frames: 250
+Mean fps till here=3.370524880523473
+Video length processed in frames: 300
+Mean fps till here=3.374146598467866
+Video length processed in frames: 350
+Mean fps till here=3.379959821616537
+Cut Path .../results/DeepLearning/SIGGRAPH-out/4_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/5.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/5_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.9961946228676575
+Video length processed in frames: 100
+Mean fps till here=3.2410367546106493
+Video length processed in frames: 150
+Mean fps till here=3.316002000166942
+Video length processed in frames: 200
+Mean fps till here=3.3562185133263265
+Video length processed in frames: 250
+Mean fps till here=3.3768152745861286
+Video length processed in frames: 300
+Mean fps till here=3.379821691630288
+Video length processed in frames: 350
+Mean fps till here=3.3822046955869265
+Video length processed in frames: 400
+Mean fps till here=3.3844306658941274
+Video length processed in frames: 450
+Mean fps till here=3.386620160286644
+Video length processed in frames: 500
+Mean fps till here=3.3880040438172196
+Video length processed in frames: 550
+Mean fps till here=3.387566465435201
+Cut Path .../results/DeepLearning/SIGGRAPH-out/5_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/6.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/6_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.9833529307063293
+Video length processed in frames: 100
+Mean fps till here=3.2152641890520495
+Video length processed in frames: 150
+Mean fps till here=3.280399281428244
+Video length processed in frames: 200
+Mean fps till here=3.249547706242237
+Video length processed in frames: 250
+Mean fps till here=3.3005306087940665
+Video length processed in frames: 300
+Mean fps till here=3.3314662024295307
+Video length processed in frames: 350
+Mean fps till here=3.3561462646975073
+Video length processed in frames: 400
+Mean fps till here=3.3762343957851533
+Cut Path .../results/DeepLearning/SIGGRAPH-out/6_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/7.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/7_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.1145563829067893
+Video length processed in frames: 100
+Mean fps till here=3.3508352921463342
+Video length processed in frames: 150
+Mean fps till here=3.4195603393536387
+Video length processed in frames: 200
+Mean fps till here=3.4673593949719486
+Video length processed in frames: 250
+Mean fps till here=3.49267844928469
+Video length processed in frames: 300
+Mean fps till here=3.5074517731973556
+Video length processed in frames: 350
+Mean fps till here=3.5175907717529835
+Cut Path .../results/DeepLearning/SIGGRAPH-out/7_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/8.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/8_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.100538045553316
+Video length processed in frames: 100
+Mean fps till here=3.357160454715796
+Video length processed in frames: 150
+Mean fps till here=3.434236884110559
+Video length processed in frames: 200
+Mean fps till here=3.4763093881075555
+Video length processed in frames: 250
+Mean fps till here=3.5014455347181164
+Video length processed in frames: 300
+Mean fps till here=3.5172294715758325
+Video length processed in frames: 350
+Mean fps till here=3.5295248515694606
+Video length processed in frames: 400
+Mean fps till here=3.538686552812406
+Cut Path .../results/DeepLearning/SIGGRAPH-out/8_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/9.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is .../results/DeepLearning/SIGGRAPH-out/9_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.120720248719299
+Video length processed in frames: 100
+Mean fps till here=3.362726219347673
+Video length processed in frames: 150
+Mean fps till here=3.443499336576465
+Video length processed in frames: 200
+Mean fps till here=3.4782279149313156
+Video length processed in frames: 250
+Mean fps till here=3.5031151762134494
+Video length processed in frames: 300
+Mean fps till here=3.515119421311701
+Video length processed in frames: 350
+Mean fps till here=3.51231634173731
+Video length processed in frames: 400
+Mean fps till here=3.5124499369797926
+Video length processed in frames: 450
+Mean fps till here=3.5070209733528532
+Video length processed in frames: 500
+Mean fps till here=3.5065720628764967
+Video length processed in frames: 550
+Mean fps till here=3.5075855257346995
+Video length processed in frames: 600
+Mean fps till here=3.5075478194442526
+Video length processed in frames: 650
+Mean fps till here=3.507675451152202
+Video length processed in frames: 700
+Mean fps till here=3.50869516539706
+Video length processed in frames: 750
+Mean fps till here=3.508768998455048
+Video length processed in frames: 800
+Mean fps till here=3.5092975237457726
+Video length processed in frames: 850
+Mean fps till here=3.5107305507352065
+Video length processed in frames: 900
+Mean fps till here=3.51167296994
+Video length processed in frames: 950
+Mean fps till here=3.5125738349132907
+Cut Path .../results/DeepLearning/SIGGRAPH-out/9_cut.avi
+Currently running on ../dataset/big-bot/avi_rotated/run0.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run10.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run11.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run13.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run1.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run2.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run3.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run4.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run5.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run6.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run7.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run8.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run9.avi
+
+Currently running on ../dataset/big-bot/mp4_rotated/run0.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run10.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run11.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run13.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run1.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run2.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run3.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run4.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run5.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run6.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run7.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run8.mp4
+
+Currently running on ../dataset/big-bot/mp4_rotated/run9.mp4
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/0.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/10.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/11.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/12.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/13.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/14.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/15.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/16.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/17.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/18.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/19.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/1.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/20.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/21.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/22.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/2.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/3.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/4.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/5.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/6.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/7.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/8.avi
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/9.avi
+
+Currently running on ../dataset/big-bot/avi_rotated/run0.avi
+
+Number of frames in file are 505
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run10.avi
+
+Number of frames in file are 540
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run11.avi
+
+Number of frames in file are 432
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run13.avi
+
+Number of frames in file are 775
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run1.avi
+
+Number of frames in file are 485
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run2.avi
+
+Number of frames in file are 490
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run3.avi
+
+Number of frames in file are 444
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run4.avi
+
+Number of frames in file are 384
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run5.avi
+
+Number of frames in file are 381
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run6.avi
+
+Number of frames in file are 474
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run7.avi
+
+Number of frames in file are 369
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run8.avi
+
+Number of frames in file are 487
+Solution converged
+Currently running on ../dataset/big-bot/avi_rotated/run9.avi
+
+Number of frames in file are 386
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run0.mp4
+
+Number of frames in file are 505
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run10.mp4
+
+Number of frames in file are 540
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run11.mp4
+
+Number of frames in file are 432
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run13.mp4
+
+Number of frames in file are 775
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run1.mp4
+
+Number of frames in file are 485
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run2.mp4
+
+Number of frames in file are 490
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run3.mp4
+
+Number of frames in file are 444
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run4.mp4
+
+Number of frames in file are 384
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run5.mp4
+
+Number of frames in file are 381
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run6.mp4
+
+Number of frames in file are 474
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run7.mp4
+
+Number of frames in file are 369
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run8.mp4
+
+Number of frames in file are 487
+Solution converged
+Currently running on ../dataset/big-bot/mp4_rotated/run9.mp4
+
+Number of frames in file are 386
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/0.avi
+
+Number of frames in file are 249
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/10.avi
+
+Number of frames in file are 404
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/11.avi
+
+Number of frames in file are 434
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/12.avi
+
+Number of frames in file are 494
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/13.avi
+
+Number of frames in file are 509
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/14.avi
+
+Number of frames in file are 299
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/15.avi
+
+Number of frames in file are 479
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/16.avi
+
+Number of frames in file are 629
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/17.avi
+
+Number of frames in file are 480
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/18.avi
+
+Number of frames in file are 250
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/19.avi
+
+Number of frames in file are 617
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/1.avi
+
+Number of frames in file are 498
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/20.avi
+
+Number of frames in file are 881
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/21.avi
+
+Number of frames in file are 880
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/22.avi
+
+Number of frames in file are 882
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/2.avi
+
+Number of frames in file are 449
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/3.avi
+
+Number of frames in file are 574
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/4.avi
+
+Number of frames in file are 401
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/5.avi
+
+Number of frames in file are 599
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/6.avi
+
+Number of frames in file are 434
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/7.avi
+
+Number of frames in file are 389
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/8.avi
+
+Number of frames in file are 434
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/9.avi
+
+Number of frames in file are 999
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run0_clipped.avi
+
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run10_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/94
+Tracking Features in Frame: 50/94
+Overall reconstruction error:0.251
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:12,54,225,213
+Done
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run11_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/87
+Tracking Features in Frame: 50/87
+Overall reconstruction error:2.614
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:33,51,591,234
+Done
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run13_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/223
+Tracking Features in Frame: 50/223
+Tracking Features in Frame: 100/223
+Tracking Features in Frame: 150/223
+Tracking Features in Frame: 200/223
+Overall reconstruction error:2.871
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:84,120,558,228
+Done
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run1_clipped.avi
+
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run2_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/207
+Tracking Features in Frame: 50/207
+Tracking Features in Frame: 100/207
+Tracking Features in Frame: 150/207
+Tracking Features in Frame: 200/207
+Overall reconstruction error:0.727
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:42,27,522,258
+Done
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run3_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/112
+Tracking Features in Frame: 50/112
+Tracking Features in Frame: 100/112
+Overall reconstruction error:1.646
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:36,42,612,261
+Done
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run4_clipped.avi
+
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run5_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/90
+Tracking Features in Frame: 50/90
+Overall reconstruction error:3.727
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:42,84,600,171
+Done
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run6_clipped.avi
+
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run7_clipped.avi
+
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run8_clipped.avi
+
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run9_clipped.avi
+
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/0.avi
+
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/10.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/362
+Tracking Features in Frame: 50/362
+Tracking Features in Frame: 100/362
+Tracking Features in Frame: 150/362
+Tracking Features in Frame: 200/362
+Tracking Features in Frame: 250/362
+Tracking Features in Frame: 300/362
+Tracking Features in Frame: 350/362
+Overall reconstruction error:0.124
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:24,15,618,303
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/11.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/393
+Tracking Features in Frame: 50/393
+Tracking Features in Frame: 100/393
+Tracking Features in Frame: 150/393
+Tracking Features in Frame: 200/393
+Tracking Features in Frame: 250/393
+Tracking Features in Frame: 300/393
+Tracking Features in Frame: 350/393
+Overall reconstruction error:0.183
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:24,15,627,300
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/12.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/453
+Tracking Features in Frame: 50/453
+Tracking Features in Frame: 100/453
+Tracking Features in Frame: 150/453
+Tracking Features in Frame: 200/453
+Tracking Features in Frame: 250/453
+Tracking Features in Frame: 300/453
+Tracking Features in Frame: 350/453
+Tracking Features in Frame: 400/453
+Tracking Features in Frame: 450/453
+Overall reconstruction error:0.125
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:12,12,621,303
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/13.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/467
+Tracking Features in Frame: 50/467
+Tracking Features in Frame: 100/467
+Tracking Features in Frame: 150/467
+Tracking Features in Frame: 200/467
+Tracking Features in Frame: 250/467
+Tracking Features in Frame: 300/467
+Tracking Features in Frame: 350/467
+Tracking Features in Frame: 400/467
+Tracking Features in Frame: 450/467
+Overall reconstruction error:0.059
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:15,12,624,303
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/14.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/258
+Tracking Features in Frame: 50/258
+Tracking Features in Frame: 100/258
+Tracking Features in Frame: 150/258
+Tracking Features in Frame: 200/258
+Tracking Features in Frame: 250/258
+Overall reconstruction error:0.191
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:18,9,627,309
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/15.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/437
+Tracking Features in Frame: 50/437
+Tracking Features in Frame: 100/437
+Tracking Features in Frame: 150/437
+Tracking Features in Frame: 200/437
+Tracking Features in Frame: 250/437
+Tracking Features in Frame: 300/437
+Tracking Features in Frame: 350/437
+Tracking Features in Frame: 400/437
+Overall reconstruction error:0.072
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:18,18,624,300
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/16.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/588
+Tracking Features in Frame: 50/588
+Tracking Features in Frame: 100/588
+Tracking Features in Frame: 150/588
+Tracking Features in Frame: 200/588
+Tracking Features in Frame: 250/588
+Tracking Features in Frame: 300/588
+Tracking Features in Frame: 350/588
+Tracking Features in Frame: 400/588
+Tracking Features in Frame: 450/588
+Tracking Features in Frame: 500/588
+Tracking Features in Frame: 550/588
+Overall reconstruction error:0.095
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:24,18,615,297
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/17.avi
+
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/18.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/210
+Tracking Features in Frame: 50/210
+Tracking Features in Frame: 100/210
+Tracking Features in Frame: 150/210
+Tracking Features in Frame: 200/210
+Overall reconstruction error:1.055
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:33,30,603,291
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/19.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/576
+Tracking Features in Frame: 50/576
+Tracking Features in Frame: 100/576
+Tracking Features in Frame: 150/576
+Tracking Features in Frame: 200/576
+Tracking Features in Frame: 250/576
+Tracking Features in Frame: 300/576
+Tracking Features in Frame: 350/576
+Tracking Features in Frame: 400/576
+Tracking Features in Frame: 450/576
+Tracking Features in Frame: 500/576
+Tracking Features in Frame: 550/576
+Overall reconstruction error:0.093
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:15,12,624,303
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/1.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/456
+Tracking Features in Frame: 50/456
+Tracking Features in Frame: 100/456
+Tracking Features in Frame: 150/456
+Tracking Features in Frame: 200/456
+Tracking Features in Frame: 250/456
+Tracking Features in Frame: 300/456
+Tracking Features in Frame: 350/456
+Tracking Features in Frame: 400/456
+Tracking Features in Frame: 450/456
+Overall reconstruction error:0.130
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:21,15,588,297
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/20.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/839
+Tracking Features in Frame: 50/839
+Tracking Features in Frame: 100/839
+Tracking Features in Frame: 150/839
+Tracking Features in Frame: 200/839
+Tracking Features in Frame: 250/839
+Tracking Features in Frame: 300/839
+Tracking Features in Frame: 350/839
+Tracking Features in Frame: 400/839
+Tracking Features in Frame: 450/839
+Tracking Features in Frame: 500/839
+Tracking Features in Frame: 550/839
+Tracking Features in Frame: 600/839
+Tracking Features in Frame: 650/839
+Tracking Features in Frame: 700/839
+Tracking Features in Frame: 750/839
+Tracking Features in Frame: 800/839
+Overall reconstruction error:6.716
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:45,30,618,303
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/21.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/838
+Tracking Features in Frame: 50/838
+Tracking Features in Frame: 100/838
+Tracking Features in Frame: 150/838
+Tracking Features in Frame: 200/838
+Tracking Features in Frame: 250/838
+Tracking Features in Frame: 300/838
+Tracking Features in Frame: 350/838
+Tracking Features in Frame: 400/838
+Tracking Features in Frame: 450/838
+Tracking Features in Frame: 500/838
+Tracking Features in Frame: 550/838
+Tracking Features in Frame: 600/838
+Tracking Features in Frame: 650/838
+Tracking Features in Frame: 700/838
+Tracking Features in Frame: 750/838
+Tracking Features in Frame: 800/838
+Overall reconstruction error:0.221
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:21,15,624,300
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/22.avi
+
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/2.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/407
+Tracking Features in Frame: 50/407
+Tracking Features in Frame: 100/407
+Tracking Features in Frame: 150/407
+Tracking Features in Frame: 200/407
+Tracking Features in Frame: 250/407
+Tracking Features in Frame: 300/407
+Tracking Features in Frame: 350/407
+Tracking Features in Frame: 400/407
+Overall reconstruction error:0.168
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:27,18,618,303
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/3.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/532
+Tracking Features in Frame: 50/532
+Tracking Features in Frame: 100/532
+Tracking Features in Frame: 150/532
+Tracking Features in Frame: 200/532
+Tracking Features in Frame: 250/532
+Tracking Features in Frame: 300/532
+Tracking Features in Frame: 350/532
+Tracking Features in Frame: 400/532
+Tracking Features in Frame: 450/532
+Tracking Features in Frame: 500/532
+Overall reconstruction error:1.622
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:15,12,618,300
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/4.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/359
+Tracking Features in Frame: 50/359
+Tracking Features in Frame: 100/359
+Tracking Features in Frame: 150/359
+Tracking Features in Frame: 200/359
+Tracking Features in Frame: 250/359
+Tracking Features in Frame: 300/359
+Tracking Features in Frame: 350/359
+Overall reconstruction error:0.162
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:21,12,624,312
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/5.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/557
+Tracking Features in Frame: 50/557
+Tracking Features in Frame: 100/557
+Tracking Features in Frame: 150/557
+Tracking Features in Frame: 200/557
+Tracking Features in Frame: 250/557
+Tracking Features in Frame: 300/557
+Tracking Features in Frame: 350/557
+Tracking Features in Frame: 400/557
+Tracking Features in Frame: 450/557
+Tracking Features in Frame: 500/557
+Tracking Features in Frame: 550/557
+Overall reconstruction error:3.018
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:24,9,615,309
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/6.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/392
+Tracking Features in Frame: 50/392
+Tracking Features in Frame: 100/392
+Tracking Features in Frame: 150/392
+Tracking Features in Frame: 200/392
+Tracking Features in Frame: 250/392
+Tracking Features in Frame: 300/392
+Tracking Features in Frame: 350/392
+Overall reconstruction error:0.282
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:36,30,603,291
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/7.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/347
+Tracking Features in Frame: 50/347
+Tracking Features in Frame: 100/347
+Tracking Features in Frame: 150/347
+Tracking Features in Frame: 200/347
+Tracking Features in Frame: 250/347
+Tracking Features in Frame: 300/347
+Overall reconstruction error:0.063
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:15,15,627,300
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/8.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/392
+Tracking Features in Frame: 50/392
+Tracking Features in Frame: 100/392
+Tracking Features in Frame: 150/392
+Tracking Features in Frame: 200/392
+Tracking Features in Frame: 250/392
+Tracking Features in Frame: 300/392
+Tracking Features in Frame: 350/392
+Overall reconstruction error:0.068
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:12,12,627,303
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/9.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/957
+Tracking Features in Frame: 50/957
+Tracking Features in Frame: 100/957
+Tracking Features in Frame: 150/957
+Tracking Features in Frame: 200/957
+Tracking Features in Frame: 250/957
+Tracking Features in Frame: 300/957
+Tracking Features in Frame: 350/957
+Tracking Features in Frame: 400/957
+Tracking Features in Frame: 450/957
+Tracking Features in Frame: 500/957
+Tracking Features in Frame: 550/957
+Tracking Features in Frame: 600/957
+Tracking Features in Frame: 650/957
+Tracking Features in Frame: 700/957
+Tracking Features in Frame: 750/957
+Tracking Features in Frame: 800/957
+Tracking Features in Frame: 850/957
+Tracking Features in Frame: 900/957
+Tracking Features in Frame: 950/957
+Overall reconstruction error:0.207
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:15,21,609,300
+Done
+
+no change     /home/ishank/anaconda3/condabin/conda
+no change     /home/ishank/anaconda3/bin/conda
+no change     /home/ishank/anaconda3/bin/conda-env
+no change     /home/ishank/anaconda3/bin/activate
+no change     /home/ishank/anaconda3/bin/deactivate
+no change     /home/ishank/anaconda3/etc/profile.d/conda.sh
+no change     /home/ishank/anaconda3/etc/fish/conf.d/conda.fish
+no change     /home/ishank/anaconda3/shell/condabin/Conda.psm1
+no change     /home/ishank/anaconda3/shell/condabin/conda-hook.ps1
+no change     /home/ishank/anaconda3/lib/python3.8/site-packages/xontrib/conda.xsh
+no change     /home/ishank/anaconda3/etc/profile.d/conda.csh
+no change     /home/ishank/.bashrc
+No action taken.
+Results for video ../dataset/big-bot/avi_rotated/run0.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run10.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run11.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run13.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run1.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run2.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run3.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run4.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run5.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run6.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run7.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run8.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run9.avi exist, ... skipping run
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/0.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 29.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/0_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.848952735944317
+Video length processed in frames: 100
+Mean fps till here=2.9687937485330966
+Video length processed in frames: 150
+Mean fps till here=2.7881548868341106
+Video length processed in frames: 200
+Mean fps till here=2.8024802223647636
+Cut Path ../results/DeepLearning/SIGGRAPH-out/0_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/10.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/10_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.6775867517043355
+Video length processed in frames: 100
+Mean fps till here=2.7479835429598856
+Video length processed in frames: 150
+Mean fps till here=2.901603089384219
+Video length processed in frames: 200
+Mean fps till here=2.8736235546936117
+Video length processed in frames: 250
+Mean fps till here=2.929903892957068
+Video length processed in frames: 300
+Mean fps till here=3.0073330228562325
+Video length processed in frames: 350
+Mean fps till here=3.0644687921922986
+Video length processed in frames: 400
+Mean fps till here=3.108676975063927
+Cut Path ../results/DeepLearning/SIGGRAPH-out/10_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/11.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/11_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.040711420964422
+Video length processed in frames: 100
+Mean fps till here=3.3171537454491893
+Video length processed in frames: 150
+Mean fps till here=3.3769553964489627
+Video length processed in frames: 200
+Mean fps till here=3.408244902465238
+Video length processed in frames: 250
+Mean fps till here=3.425222602099841
+Video length processed in frames: 300
+Mean fps till here=3.4349733392419037
+Video length processed in frames: 350
+Mean fps till here=3.4431936391825095
+Video length processed in frames: 400
+Mean fps till here=3.4473221255951136
+Cut Path ../results/DeepLearning/SIGGRAPH-out/11_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/12.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/12_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.051879574895402
+Video length processed in frames: 100
+Mean fps till here=3.32677565559222
+Video length processed in frames: 150
+Mean fps till here=3.3854522277171344
+Video length processed in frames: 200
+Mean fps till here=3.416218812194077
+Video length processed in frames: 250
+Mean fps till here=3.4358423395383206
+Video length processed in frames: 300
+Mean fps till here=3.4488237259440635
+Video length processed in frames: 350
+Mean fps till here=3.4581794756416415
+Video length processed in frames: 400
+Mean fps till here=3.4634713369923844
+Video length processed in frames: 450
+Mean fps till here=3.467030752782441
+Cut Path ../results/DeepLearning/SIGGRAPH-out/12_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/13.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/13_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.0358019601405366
+Video length processed in frames: 100
+Mean fps till here=3.3048715271126774
+Video length processed in frames: 150
+Mean fps till here=3.3655733604181637
+Video length processed in frames: 200
+Mean fps till here=3.396172972658105
+Video length processed in frames: 250
+Mean fps till here=3.413109692431644
+Video length processed in frames: 300
+Mean fps till here=3.416777750057052
+Video length processed in frames: 350
+Mean fps till here=3.4239034170875935
+Video length processed in frames: 400
+Mean fps till here=3.4313920813391396
+Video length processed in frames: 450
+Mean fps till here=3.436971750482231
+Video length processed in frames: 500
+Mean fps till here=3.440774382669241
+Cut Path ../results/DeepLearning/SIGGRAPH-out/13_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/14.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/14_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.0063253259633957
+Video length processed in frames: 100
+Mean fps till here=3.2262376226238154
+Video length processed in frames: 150
+Mean fps till here=3.310963539229272
+Video length processed in frames: 200
+Mean fps till here=3.354291913095252
+Video length processed in frames: 250
+Mean fps till here=3.378148933495486
+Cut Path ../results/DeepLearning/SIGGRAPH-out/14_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/15.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/15_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.7817795108070666
+Video length processed in frames: 100
+Mean fps till here=3.0981942109199827
+Video length processed in frames: 150
+Mean fps till here=3.222663054035179
+Video length processed in frames: 200
+Mean fps till here=3.2859597025212386
+Video length processed in frames: 250
+Mean fps till here=3.3214751275369845
+Video length processed in frames: 300
+Mean fps till here=3.342052051946928
+Video length processed in frames: 350
+Mean fps till here=3.350882882002002
+Video length processed in frames: 400
+Mean fps till here=3.3677323314314447
+Video length processed in frames: 450
+Mean fps till here=3.352700178663248
+Cut Path ../results/DeepLearning/SIGGRAPH-out/15_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/16.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/16_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.8548910036148984
+Video length processed in frames: 100
+Mean fps till here=3.078668059791445
+Video length processed in frames: 150
+Mean fps till here=3.1792125153518156
+Video length processed in frames: 200
+Mean fps till here=3.2309259627547227
+Video length processed in frames: 250
+Mean fps till here=3.219458753366643
+Video length processed in frames: 300
+Mean fps till here=3.2576149722574206
+Video length processed in frames: 350
+Mean fps till here=3.287365902200225
+Video length processed in frames: 400
+Mean fps till here=3.3126660542074795
+Video length processed in frames: 450
+Mean fps till here=3.3309523153647738
+Video length processed in frames: 500
+Mean fps till here=3.3462239247705945
+Video length processed in frames: 550
+Mean fps till here=3.3404134288469516
+Video length processed in frames: 600
+Mean fps till here=3.3465403184737963
+Cut Path ../results/DeepLearning/SIGGRAPH-out/16_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/17.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/17_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.781022658427303
+Video length processed in frames: 100
+Mean fps till here=3.0349441396932884
+Video length processed in frames: 150
+Mean fps till here=3.162512417968446
+Video length processed in frames: 200
+Mean fps till here=3.210208377899587
+Video length processed in frames: 250
+Mean fps till here=3.24148281900129
+Video length processed in frames: 300
+Mean fps till here=3.2790359353241794
+Video length processed in frames: 350
+Mean fps till here=3.3063265440255796
+Video length processed in frames: 400
+Mean fps till here=3.318763561367059
+Video length processed in frames: 450
+Mean fps till here=3.334197733534159
+Cut Path ../results/DeepLearning/SIGGRAPH-out/17_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/18.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 29.97
+Output path is ../results/DeepLearning/SIGGRAPH-out/18_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.032382178548673
+Video length processed in frames: 100
+Mean fps till here=3.293407315143547
+Video length processed in frames: 150
+Mean fps till here=3.358474478460871
+Video length processed in frames: 200
+Mean fps till here=3.3887706888735334
+Cut Path ../results/DeepLearning/SIGGRAPH-out/18_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/19.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 25.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/19_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.0272974739343965
+Video length processed in frames: 100
+Mean fps till here=3.2396177929714502
+Video length processed in frames: 150
+Mean fps till here=3.3201833661729374
+Video length processed in frames: 200
+Mean fps till here=3.3614638102637215
+Video length processed in frames: 250
+Mean fps till here=3.3875716449357016
+Video length processed in frames: 300
+Mean fps till here=3.402518973556548
+Cut Path ../results/DeepLearning/SIGGRAPH-out/19_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/1.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 29.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/1_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.0419574176265507
+Video length processed in frames: 100
+Mean fps till here=3.2729543298023938
+Video length processed in frames: 150
+Mean fps till here=3.334090157396017
+Video length processed in frames: 200
+Mean fps till here=3.3697533022052504
+Video length processed in frames: 250
+Mean fps till here=3.3895529273251195
+Video length processed in frames: 300
+Mean fps till here=3.4000848359930465
+Video length processed in frames: 350
+Mean fps till here=3.4089888145643035
+Video length processed in frames: 400
+Mean fps till here=3.4166529684276554
+Video length processed in frames: 450
+Mean fps till here=3.421798423025852
+Cut Path ../results/DeepLearning/SIGGRAPH-out/1_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/20.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 25.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/20_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.055678053898254
+Video length processed in frames: 100
+Mean fps till here=3.2563957043629674
+Video length processed in frames: 150
+Mean fps till here=3.330540068040368
+Video length processed in frames: 200
+Mean fps till here=3.3707478784974447
+Video length processed in frames: 250
+Mean fps till here=3.3945109029744223
+Video length processed in frames: 300
+Mean fps till here=3.410994353879783
+Video length processed in frames: 350
+Mean fps till here=3.4216479824834765
+Video length processed in frames: 400
+Mean fps till here=3.4282129156611223
+Cut Path ../results/DeepLearning/SIGGRAPH-out/20_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/21.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 25.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/21_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.044282815759538
+Video length processed in frames: 100
+Mean fps till here=3.20395772084554
+Video length processed in frames: 150
+Mean fps till here=3.1571084921237285
+Video length processed in frames: 200
+Mean fps till here=3.2270562018234092
+Video length processed in frames: 250
+Mean fps till here=3.274165524564797
+Video length processed in frames: 300
+Mean fps till here=3.3037739810002655
+Video length processed in frames: 350
+Mean fps till here=3.325021894482897
+Video length processed in frames: 400
+Mean fps till here=3.3406712328649286
+Cut Path ../results/DeepLearning/SIGGRAPH-out/21_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/22.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 25.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/22_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.9835717269577864
+Video length processed in frames: 100
+Mean fps till here=3.2220819993467193
+Video length processed in frames: 150
+Mean fps till here=3.30396082949149
+Video length processed in frames: 200
+Mean fps till here=3.347935441380961
+Video length processed in frames: 250
+Mean fps till here=3.374769799288777
+Video length processed in frames: 300
+Mean fps till here=3.3830126693191467
+Video length processed in frames: 350
+Mean fps till here=3.3842409867664145
+Video length processed in frames: 400
+Mean fps till here=3.3834709326007455
+Cut Path ../results/DeepLearning/SIGGRAPH-out/22_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/2.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/2_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.9676165091724616
+Video length processed in frames: 100
+Mean fps till here=3.2042208432186006
+Video length processed in frames: 150
+Mean fps till here=3.2908231056575015
+Video length processed in frames: 200
+Mean fps till here=3.3346821624703495
+Video length processed in frames: 250
+Mean fps till here=3.359660665352802
+Video length processed in frames: 300
+Mean fps till here=3.376347952888049
+Video length processed in frames: 350
+Mean fps till here=3.3890337845856777
+Video length processed in frames: 400
+Mean fps till here=3.3603904407354404
+Cut Path ../results/DeepLearning/SIGGRAPH-out/2_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/3.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/3_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.9834667601731475
+Video length processed in frames: 100
+Mean fps till here=3.2086238375194767
+Video length processed in frames: 150
+Mean fps till here=3.288697273473951
+Video length processed in frames: 200
+Mean fps till here=3.331522865823388
+Video length processed in frames: 250
+Mean fps till here=3.3548239907425215
+Video length processed in frames: 300
+Mean fps till here=3.3694318500757454
+Video length processed in frames: 350
+Mean fps till here=3.3671012358244394
+Video length processed in frames: 400
+Mean fps till here=3.3791866494902454
+Video length processed in frames: 450
+Mean fps till here=3.3885053557852007
+Video length processed in frames: 500
+Mean fps till here=3.395031730698948
+Video length processed in frames: 550
+Mean fps till here=3.3925639238670184
+Cut Path ../results/DeepLearning/SIGGRAPH-out/3_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/4.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 29.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/4_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.043217374887774
+Video length processed in frames: 100
+Mean fps till here=3.24748854892249
+Video length processed in frames: 150
+Mean fps till here=3.2514379709669647
+Video length processed in frames: 200
+Mean fps till here=3.2773439238722406
+Video length processed in frames: 250
+Mean fps till here=3.2905922913610195
+Video length processed in frames: 300
+Mean fps till here=3.2859904446239403
+Video length processed in frames: 350
+Mean fps till here=3.2929389953790733
+Cut Path ../results/DeepLearning/SIGGRAPH-out/4_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/5.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/5_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.0247718503661942
+Video length processed in frames: 100
+Mean fps till here=3.148070030309574
+Video length processed in frames: 150
+Mean fps till here=3.2411298634539505
+Video length processed in frames: 200
+Mean fps till here=3.2767563781807154
+Video length processed in frames: 250
+Mean fps till here=3.21674818673758
+Video length processed in frames: 300
+Mean fps till here=3.264153758795582
+Video length processed in frames: 350
+Mean fps till here=3.296127283774027
+Video length processed in frames: 400
+Mean fps till here=3.318109596059444
+Video length processed in frames: 450
+Mean fps till here=3.336709872687218
+Video length processed in frames: 500
+Mean fps till here=3.347910166432651
+Video length processed in frames: 550
+Mean fps till here=3.362707053205375
+Cut Path ../results/DeepLearning/SIGGRAPH-out/5_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/6.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/6_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.107434571054195
+Video length processed in frames: 100
+Mean fps till here=3.3328387411609195
+Video length processed in frames: 150
+Mean fps till here=3.3976056193177127
+Video length processed in frames: 200
+Mean fps till here=3.436532669577277
+Video length processed in frames: 250
+Mean fps till here=3.461253098026113
+Video length processed in frames: 300
+Mean fps till here=3.47834811702898
+Video length processed in frames: 350
+Mean fps till here=3.491984470042429
+Video length processed in frames: 400
+Mean fps till here=3.501242032768282
+Cut Path ../results/DeepLearning/SIGGRAPH-out/6_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/7.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/7_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.066214899885105
+Video length processed in frames: 100
+Mean fps till here=3.297624913532069
+Video length processed in frames: 150
+Mean fps till here=3.3830592297720155
+Video length processed in frames: 200
+Mean fps till here=3.4232531900709673
+Video length processed in frames: 250
+Mean fps till here=3.448986251949173
+Video length processed in frames: 300
+Mean fps till here=3.467238613577511
+Video length processed in frames: 350
+Mean fps till here=3.47979429745554
+Cut Path ../results/DeepLearning/SIGGRAPH-out/7_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/8.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/8_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.111009814888009
+Video length processed in frames: 100
+Mean fps till here=3.320612288242489
+Video length processed in frames: 150
+Mean fps till here=3.403985301216527
+Video length processed in frames: 200
+Mean fps till here=3.4453597155048863
+Video length processed in frames: 250
+Mean fps till here=3.471520411330355
+Video length processed in frames: 300
+Mean fps till here=3.4763168600963805
+Video length processed in frames: 350
+Mean fps till here=3.48979152708651
+Video length processed in frames: 400
+Mean fps till here=3.4988815349877216
+Cut Path ../results/DeepLearning/SIGGRAPH-out/8_cut.avi
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/9.avi
+
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/SIGGRAPH-out/9_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.0831567972983094
+Video length processed in frames: 100
+Mean fps till here=3.310042681066829
+Video length processed in frames: 150
+Mean fps till here=3.393532571559997
+Video length processed in frames: 200
+Mean fps till here=3.3907010111430536
+Video length processed in frames: 250
+Mean fps till here=3.4256136788753953
+Video length processed in frames: 300
+Mean fps till here=3.449853737296859
+Video length processed in frames: 350
+Mean fps till here=3.465738166407845
+Video length processed in frames: 400
+Mean fps till here=3.4750927564613607
+Video length processed in frames: 450
+Mean fps till here=3.4809862404833383
+Video length processed in frames: 500
+Mean fps till here=3.487294873084621
+Video length processed in frames: 550
+Mean fps till here=3.4912794638308884
+Video length processed in frames: 600
+Mean fps till here=3.4950459557523947
+Video length processed in frames: 650
+Mean fps till here=3.4954339621239887
+Video length processed in frames: 700
+Mean fps till here=3.4951846612766073
+Video length processed in frames: 750
+Mean fps till here=3.4959698789729607
+Video length processed in frames: 800
+Mean fps till here=3.498836674202461
+Video length processed in frames: 850
+Mean fps till here=3.498706189321054
+Video length processed in frames: 900
+Mean fps till here=3.5006668196062614
+Video length processed in frames: 950
+Mean fps till here=3.5008117656395528
+Cut Path ../results/DeepLearning/SIGGRAPH-out/9_cut.avi
+Results for video ../dataset/big-bot/avi_rotated/run0.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run10.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run11.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run13.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run1.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run2.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run3.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run4.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run5.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run6.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run7.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run8.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run9.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run0.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run10.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run11.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run13.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run1.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run2.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run3.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run4.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run5.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run6.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run7.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run8.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run9.mp4 exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/0.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/10.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/11.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/12.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/13.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/14.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/15.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/16.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/17.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/18.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/19.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/1.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/20.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/21.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/22.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/2.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/3.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/4.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/5.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/6.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/7.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/8.avi exist, ... skipping run
+
+Results for video ../dataset/SIGGRAPH-dataset/unstable/9.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run0.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run10.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run11.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run13.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run1.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run2.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run3.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run4.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run5.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run6.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run7.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run8.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/avi_rotated/run9.avi exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run0.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run10.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run11.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run13.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run1.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run2.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run3.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run4.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run5.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run6.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run7.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run8.mp4 exist, ... skipping run
+
+Results for video ../dataset/big-bot/mp4_rotated/run9.mp4 exist, ... skipping run
+
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/0.avi
+
+Number of frames in file are 249
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/10.avi
+
+Number of frames in file are 404
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/11.avi
+
+Number of frames in file are 434
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/12.avi
+
+Number of frames in file are 494
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/13.avi
+
+Number of frames in file are 509
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/14.avi
+
+Number of frames in file are 299
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/15.avi
+
+Number of frames in file are 479
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/16.avi
+
+Number of frames in file are 629
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/17.avi
+
+Number of frames in file are 480
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/18.avi
+
+Number of frames in file are 250
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/19.avi
+
+Number of frames in file are 617
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/1.avi
+
+Number of frames in file are 498
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/20.avi
+
+Number of frames in file are 881
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/21.avi
+
+Number of frames in file are 880
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/22.avi
+
+Number of frames in file are 882
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/2.avi
+
+Number of frames in file are 449
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/3.avi
+
+Number of frames in file are 574
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/4.avi
+
+Number of frames in file are 401
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/5.avi
+
+Number of frames in file are 599
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/6.avi
+
+Number of frames in file are 434
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/7.avi
+
+Number of frames in file are 389
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/8.avi
+
+Number of frames in file are 434
+Solution converged
+Currently running on ../dataset/SIGGRAPH-dataset/unstable/9.avi
+
+Number of frames in file are 999
+Solution converged
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run0_clipped.avi
+
+Results for video ../../dataset/big-bot/avi_rotated_clipped/run10_clipped.avi exist, ... skipping run
+
+Results for video ../../dataset/big-bot/avi_rotated_clipped/run11_clipped.avi exist, ... skipping run
+
+Results for video ../../dataset/big-bot/avi_rotated_clipped/run13_clipped.avi exist, ... skipping run
+
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run1_clipped.avi
+
+Results for video ../../dataset/big-bot/avi_rotated_clipped/run2_clipped.avi exist, ... skipping run
+
+Results for video ../../dataset/big-bot/avi_rotated_clipped/run3_clipped.avi exist, ... skipping run
+
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run4_clipped.avi
+
+Results for video ../../dataset/big-bot/avi_rotated_clipped/run5_clipped.avi exist, ... skipping run
+
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run6_clipped.avi
+
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run7_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/134
+Tracking Features in Frame: 50/134
+Tracking Features in Frame: 100/134
+Overall reconstruction error:2.840
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:132,72,594,237
+Done
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run8_clipped.avi
+
+Currently running on ../../dataset/big-bot/avi_rotated_clipped/run9_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/122
+Tracking Features in Frame: 50/122
+Tracking Features in Frame: 100/122
+Overall reconstruction error:2.744
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:27,132,432,201
+Done
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/0.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/207
+Tracking Features in Frame: 50/207
+Tracking Features in Frame: 100/207
+Tracking Features in Frame: 150/207
+Tracking Features in Frame: 200/207
+Overall reconstruction error:0.170
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:117,21,369,261
+Done
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/10.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/11.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/12.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/13.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/14.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/15.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/16.avi exist, ... skipping run
+
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/17.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/440
+Tracking Features in Frame: 50/440
+Tracking Features in Frame: 100/440
+Tracking Features in Frame: 150/440
+Tracking Features in Frame: 200/440
+Tracking Features in Frame: 250/440
+Tracking Features in Frame: 300/440
+Tracking Features in Frame: 350/440
+Tracking Features in Frame: 400/440
+Overall reconstruction error:50.414
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:345,141,519,222
+Done
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/18.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/19.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/1.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/20.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/21.avi exist, ... skipping run
+
+Currently running on ../../dataset/SIGGRAPH-dataset/unstable/22.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/840
+Tracking Features in Frame: 50/840
+Tracking Features in Frame: 100/840
+Tracking Features in Frame: 150/840
+Tracking Features in Frame: 200/840
+Tracking Features in Frame: 250/840
+Tracking Features in Frame: 300/840
+Tracking Features in Frame: 350/840
+Tracking Features in Frame: 400/840
+Tracking Features in Frame: 450/840
+Tracking Features in Frame: 500/840
+Tracking Features in Frame: 550/840
+Tracking Features in Frame: 600/840
+Tracking Features in Frame: 650/840
+Tracking Features in Frame: 700/840
+Tracking Features in Frame: 750/840
+Tracking Features in Frame: 800/840
+Overall reconstruction error:3.576
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:24,12,618,303
+Done
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/2.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/3.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/4.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/5.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/6.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/7.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/8.avi exist, ... skipping run
+
+Results for video ../../dataset/SIGGRAPH-dataset/unstable/9.avi exist, ... skipping run

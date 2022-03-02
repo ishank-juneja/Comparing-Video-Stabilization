@@ -1,0 +1,12 @@
+.idea/
+*.xml
+*.png
+idea/
+*.mp4
+*.avi
+*.mkv
+*.xlsx
+*.pdf
+Video-Stab-Proposal/
+*.pyc
+EE692-Report*

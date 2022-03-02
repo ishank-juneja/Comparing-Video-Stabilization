@@ -1,0 +1,437 @@
+2021-05-13 19:58:44.660407: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 19:58:44.682663: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 19:58:44.683006: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5636acc43bc0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 19:58:44.683049: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:00:59.607322: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:00:59.630737: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:00:59.631069: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55cb36db6380 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:00:59.631108: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:04:28.974286: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:04:28.994748: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:04:28.995077: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5592ffeef720 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:04:28.995129: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:07:40.594028: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:07:40.614751: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:07:40.615052: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x557ee4356900 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:07:40.615092: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:11:13.811734: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:11:13.834743: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:11:13.835079: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5560bd2ee940 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:11:13.835127: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:15:13.426965: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:15:13.450766: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:15:13.451085: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55f0377dda40 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:15:13.451139: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:17:46.779548: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:17:46.802761: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:17:46.803081: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55fff7b2beb0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:17:46.803120: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:21:20.406689: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:21:20.430749: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:21:20.431063: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5617385351c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:21:20.431113: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:25:53.836033: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:25:53.858567: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:25:53.858905: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55f3d1c1d390 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:25:53.858934: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:29:30.981407: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:29:31.002761: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:29:31.003072: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5610f41a6130 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:29:31.003111: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:32:00.219512: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:32:00.246541: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:32:00.246959: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55eae0151100 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:32:00.247001: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:34:54.132888: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:34:54.154634: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:34:54.155116: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x560dd1b0c360 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:34:54.155277: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:38:46.708913: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:38:46.730589: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:38:46.730871: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x563aa6e3fc70 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:38:46.730893: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:42:29.193984: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:42:29.214672: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:42:29.214953: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x555786462c40 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:42:29.214973: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:45:38.870851: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:45:38.898658: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:45:38.898930: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x558707a66ca0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:45:38.898955: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:48:53.007392: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:48:53.030651: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:48:53.030958: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x558773aa1ac0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:48:53.030983: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:52:21.132585: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:52:21.154668: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:52:21.154974: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55ccb5dcc530 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:52:21.154999: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:56:37.215166: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:56:37.238668: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:56:37.238980: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x56287c039d70 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:56:37.239034: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 20:59:42.839662: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 20:59:42.862888: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 20:59:42.863545: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x556b016abcb0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 20:59:42.863641: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 21:03:59.974806: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 21:03:59.998672: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 21:03:59.998932: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x558b5358b600 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 21:03:59.998954: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 21:07:07.382625: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 21:07:07.406734: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 21:07:07.407058: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5653813915c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 21:07:07.407109: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 21:09:59.375620: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 21:09:59.398738: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 21:09:59.399037: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55bb46fd3570 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 21:09:59.399077: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2021-05-13 21:13:11.353592: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-13 21:13:11.374749: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-13 21:13:11.375044: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5651f26ded90 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-13 21:13:11.375083: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "L1optimal.py", line 243, in <module>
+    main(args_read, in_file, out_path, fourcc)
+  File "L1optimal.py", line 184, in main
+    B_transforms = stabilize(F_transforms, prev.shape, True, None, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 99, in stabilize
+    corner_points = get_crop_window(frame_shape, crop_ratio)
+  File "/home/ishank/Desktop/video-stab-final/L1-optimal-paths/L1optimal_lpp.py", line 65, in get_crop_window
+    crop_w = round(im_shape[1] * crop_ratio)
+TypeError: unsupported operand type(s) for *: 'int' and 'NoneType'
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
+F0513 21:41:27.885315 379369 warping.cpp:35] Check failed: pt[0] <= width - 1 (-nan vs. 639) 
+*** Check failure stack trace: ***
+    @     0x7f892de661c3  google::LogMessage::Fail()
+    @     0x7f892de6b25b  google::LogMessage::SendToLog()
+    @     0x7f892de65ebf  google::LogMessage::Flush()
+    @     0x7f892de666ef  google::LogMessageFatal::~LogMessageFatal()
+    @     0x5603dcf63336  substab::GridWarpping::getGridIndAndWeight()
+    @     0x5603dcf6531b  substab::GridWarpping::warpImageCloseForm()
+    @     0x5603dcf364e4  _ZNSt6thread11_State_implINS_8_InvokerISt5tupleIJZ4mainEUliE_iEEEEE6_M_runEv
+    @     0x7f892d1dbd84  (unknown)
+    @     0x7f892d2ef609  start_thread
+    @     0x7f892d035293  clone
+Traceback (most recent call last):
+  File "subSpace.py", line 44, in <module>
+    '--resize=true', '--crop=true'])
+  File "/home/ishank/anaconda3/envs/subSpace-Stabilization/lib/python3.6/subprocess.py", line 311, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['./build/SubspaceStab', '../../dataset/big-bot/avi_rotated_clipped/run0_clipped.avi', '--output=./build/result_run0_clipped', '--resize=true', '--crop=true']' died with <Signals.SIGABRT: 6>.
+F0513 21:43:55.428925 379644 warping.cpp:35] Check failed: pt[0] <= width - 1 (-nan vs. 639) 
+*** Check failure stack trace: ***
+    @     0x7fd0edc221c3  google::LogMessage::Fail()
+    @     0x7fd0edc2725b  google::LogMessage::SendToLog()
+    @     0x7fd0edc21ebf  google::LogMessage::Flush()
+    @     0x7fd0edc226ef  google::LogMessageFatal::~LogMessageFatal()
+    @     0x55fbe6476336  substab::GridWarpping::getGridIndAndWeight()
+    @     0x55fbe647831b  substab::GridWarpping::warpImageCloseForm()
+    @     0x55fbe64494e4  _ZNSt6thread11_State_implINS_8_InvokerISt5tupleIJZ4mainEUliE_iEEEEE6_M_runEv
+    @     0x7fd0ecf97d84  (unknown)
+    @     0x7fd0ed0ab609  start_thread
+    @     0x7fd0ecdf1293  clone
+Traceback (most recent call last):
+  File "subSpace.py", line 44, in <module>
+    '--resize=true', '--crop=true'])
+  File "/home/ishank/anaconda3/envs/subSpace-Stabilization/lib/python3.6/subprocess.py", line 311, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['./build/SubspaceStab', '../../dataset/big-bot/avi_rotated_clipped/run1_clipped.avi', '--output=./build/result_run1_clipped', '--resize=true', '--crop=true']' died with <Signals.SIGABRT: 6>.
+Traceback (most recent call last):
+  File "subSpace.py", line 44, in <module>
+    '--resize=true', '--crop=true'])
+  File "/home/ishank/anaconda3/envs/subSpace-Stabilization/lib/python3.6/subprocess.py", line 311, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['./build/SubspaceStab', '../../dataset/big-bot/avi_rotated_clipped/run4_clipped.avi', '--output=./build/result_run4_clipped', '--resize=true', '--crop=true']' died with <Signals.SIGSEGV: 11>.
+Traceback (most recent call last):
+  File "subSpace.py", line 44, in <module>
+    '--resize=true', '--crop=true'])
+  File "/home/ishank/anaconda3/envs/subSpace-Stabilization/lib/python3.6/subprocess.py", line 311, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['./build/SubspaceStab', '../../dataset/big-bot/avi_rotated_clipped/run6_clipped.avi', '--output=./build/result_run6_clipped', '--resize=true', '--crop=true']' died with <Signals.SIGSEGV: 11>.
+terminate called after throwing an instance of 'cv::Exception'
+  what():  OpenCV(4.5.2-dev) /opt/opencv/modules/core/src/matrix.cpp:768: error: (-215:Assertion failed) 0 <= _rowRange.start && _rowRange.start <= _rowRange.end && _rowRange.end <= m.rows in function 'Mat'
+
+Traceback (most recent call last):
+  File "subSpace.py", line 44, in <module>
+    '--resize=true', '--crop=true'])
+  File "/home/ishank/anaconda3/envs/subSpace-Stabilization/lib/python3.6/subprocess.py", line 311, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['./build/SubspaceStab', '../../dataset/big-bot/avi_rotated_clipped/run7_clipped.avi', '--output=./build/result_run7_clipped', '--resize=true', '--crop=true']' died with <Signals.SIGABRT: 6>.
+F0513 21:46:40.338549 380019 warping.cpp:35] Check failed: pt[0] <= width - 1 (-nan vs. 639) 
+*** Check failure stack trace: ***
+    @     0x7fa4424211c3  google::LogMessage::Fail()
+    @     0x7fa44242625b  google::LogMessage::SendToLog()
+    @     0x7fa442420ebf  google::LogMessage::Flush()
+    @     0x7fa4424216ef  google::LogMessageFatal::~LogMessageFatal()
+    @     0x55e83b4a7336  substab::GridWarpping::getGridIndAndWeight()
+    @     0x55e83b4a931b  substab::GridWarpping::warpImageCloseForm()
+    @     0x55e83b47a4e4  _ZNSt6thread11_State_implINS_8_InvokerISt5tupleIJZ4mainEUliE_iEEEEE6_M_runEv
+    @     0x7fa441796d84  (unknown)
+    @     0x7fa4418aa609  start_thread
+    @     0x7fa4415f0293  clone
+Traceback (most recent call last):
+  File "subSpace.py", line 44, in <module>
+    '--resize=true', '--crop=true'])
+  File "/home/ishank/anaconda3/envs/subSpace-Stabilization/lib/python3.6/subprocess.py", line 311, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['./build/SubspaceStab', '../../dataset/big-bot/avi_rotated_clipped/run8_clipped.avi', '--output=./build/result_run8_clipped', '--resize=true', '--crop=true']' died with <Signals.SIGABRT: 6>.
+terminate called after throwing an instance of 'cv::Exception'
+  what():  OpenCV(4.5.2-dev) /opt/opencv/modules/core/src/matrix.cpp:768: error: (-215:Assertion failed) 0 <= _rowRange.start && _rowRange.start <= _rowRange.end && _rowRange.end <= m.rows in function 'Mat'
+
+Traceback (most recent call last):
+  File "subSpace.py", line 44, in <module>
+    '--resize=true', '--crop=true'])
+  File "/home/ishank/anaconda3/envs/subSpace-Stabilization/lib/python3.6/subprocess.py", line 311, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['./build/SubspaceStab', '../../dataset/big-bot/avi_rotated_clipped/run9_clipped.avi', '--output=./build/result_run9_clipped', '--resize=true', '--crop=true']' died with <Signals.SIGABRT: 6>.
+terminate called after throwing an instance of 'cv::Exception'
+  what():  OpenCV(4.5.2-dev) /opt/opencv/modules/core/src/matrix.cpp:768: error: (-215:Assertion failed) 0 <= _rowRange.start && _rowRange.start <= _rowRange.end && _rowRange.end <= m.rows in function 'Mat'
+
+Traceback (most recent call last):
+  File "subSpace.py", line 44, in <module>
+    '--resize=true', '--crop=true'])
+  File "/home/ishank/anaconda3/envs/subSpace-Stabilization/lib/python3.6/subprocess.py", line 311, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['./build/SubspaceStab', '../../dataset/SIGGRAPH-dataset/unstable/0.avi', '--output=./build/result_0', '--resize=true', '--crop=true']' died with <Signals.SIGABRT: 6>.
+terminate called after throwing an instance of 'cv::Exception'
+  what():  OpenCV(4.5.2-dev) /opt/opencv/modules/core/src/matrix.cpp:768: error: (-215:Assertion failed) 0 <= _rowRange.start && _rowRange.start <= _rowRange.end && _rowRange.end <= m.rows in function 'Mat'
+
+Traceback (most recent call last):
+  File "subSpace.py", line 44, in <module>
+    '--resize=true', '--crop=true'])
+  File "/home/ishank/anaconda3/envs/subSpace-Stabilization/lib/python3.6/subprocess.py", line 311, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['./build/SubspaceStab', '../../dataset/SIGGRAPH-dataset/unstable/17.avi', '--output=./build/result_17', '--resize=true', '--crop=true']' died with <Signals.SIGABRT: 6>.
+terminate called after throwing an instance of 'cv::Exception'
+  what():  OpenCV(4.5.2-dev) /opt/opencv/modules/core/src/matrix.cpp:768: error: (-215:Assertion failed) 0 <= _rowRange.start && _rowRange.start <= _rowRange.end && _rowRange.end <= m.rows in function 'Mat'
+
+Traceback (most recent call last):
+  File "subSpace.py", line 44, in <module>
+    '--resize=true', '--crop=true'])
+  File "/home/ishank/anaconda3/envs/subSpace-Stabilization/lib/python3.6/subprocess.py", line 311, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['./build/SubspaceStab', '../../dataset/SIGGRAPH-dataset/unstable/22.avi', '--output=./build/result_22', '--resize=true', '--crop=true']' died with <Signals.SIGABRT: 6>.
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.

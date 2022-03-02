@@ -1,0 +1,1390 @@
+Currently running on ../mini-dataset/10.avi
+
+2021-05-14 10:25:22.534571: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-14 10:25:22.799114: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-14 10:25:22.800245: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55fdfc133aa0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-14 10:25:22.800358: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/mini/10_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.0225117858246286
+Video length processed in frames: 100
+Mean fps till here=3.385121972544034
+Video length processed in frames: 150
+Mean fps till here=3.5082669963815722
+Video length processed in frames: 200
+Mean fps till here=3.540904010428549
+Video length processed in frames: 250
+Mean fps till here=3.559900461193861
+Video length processed in frames: 300
+Mean fps till here=3.5693543592761863
+Video length processed in frames: 350
+Mean fps till here=3.575899722835608
+Video length processed in frames: 400
+Mean fps till here=3.582965447156425
+Cut Path ../results/DeepLearning/mini/10_cut.avi
+	Command being timed: "python3 -u deploy_no_stable.py -i ../mini-dataset/10.avi -o ../results/DeepLearning/mini/10_DL_stab_out.avi --model-dir ./models/v2_93/ --model-name model-90000 --gpu_memory_fraction 0.9"
+	User time (seconds): 456.18
+	System time (seconds): 12.09
+	Percent of CPU this job got: 239%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:15.76
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2281512
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 468
+	Minor (reclaiming a frame) page faults: 2990245
+	Voluntary context switches: 336364
+	Involuntary context switches: 379371
+	Swaps: 0
+	File system inputs: 897288
+	File system outputs: 45448
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/15.avi
+
+2021-05-14 10:28:36.795820: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-14 10:28:36.818765: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-14 10:28:36.819064: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x56348c7eecd0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-14 10:28:36.819111: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/mini/15_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.218569242935653
+Video length processed in frames: 100
+Mean fps till here=3.465055375733813
+Video length processed in frames: 150
+Mean fps till here=3.518886231914978
+Video length processed in frames: 200
+Mean fps till here=3.544668298681902
+Video length processed in frames: 250
+Mean fps till here=3.5637705038323646
+Video length processed in frames: 300
+Mean fps till here=3.5739180493127454
+Video length processed in frames: 350
+Mean fps till here=3.5800824667913194
+Video length processed in frames: 400
+Mean fps till here=3.5830149245759975
+Video length processed in frames: 450
+Mean fps till here=3.5877199996564797
+Cut Path ../results/DeepLearning/mini/15_cut.avi
+	Command being timed: "python3 -u deploy_no_stable.py -i ../mini-dataset/15.avi -o ../results/DeepLearning/mini/15_DL_stab_out.avi --model-dir ./models/v2_93/ --model-name model-90000 --gpu_memory_fraction 0.9"
+	User time (seconds): 527.19
+	System time (seconds): 10.65
+	Percent of CPU this job got: 267%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:21.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2274080
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3004118
+	Voluntary context switches: 384618
+	Involuntary context switches: 339145
+	Swaps: 0
+	File system inputs: 26560
+	File system outputs: 45768
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/1.avi
+
+2021-05-14 10:31:57.857545: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-14 10:31:57.878842: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-14 10:31:57.879186: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55f963b84500 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-14 10:31:57.879241: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 29.0
+Output path is ../results/DeepLearning/mini/1_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.2049064860939986
+Video length processed in frames: 100
+Mean fps till here=3.3963402171393224
+Video length processed in frames: 150
+Mean fps till here=3.4733928408111203
+Video length processed in frames: 200
+Mean fps till here=3.5092084170671862
+Video length processed in frames: 250
+Mean fps till here=3.5322348669123755
+Video length processed in frames: 300
+Mean fps till here=3.546272471801892
+Video length processed in frames: 350
+Mean fps till here=3.554778402376418
+Video length processed in frames: 400
+Mean fps till here=3.562121364267062
+Video length processed in frames: 450
+Mean fps till here=3.569162796422159
+Cut Path ../results/DeepLearning/mini/1_cut.avi
+	Command being timed: "python3 -u deploy_no_stable.py -i ../mini-dataset/1.avi -o ../results/DeepLearning/mini/1_DL_stab_out.avi --model-dir ./models/v2_93/ --model-name model-90000 --gpu_memory_fraction 0.9"
+	User time (seconds): 546.83
+	System time (seconds): 11.73
+	Percent of CPU this job got: 271%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:25.71
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2269164
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3385498
+	Voluntary context switches: 395267
+	Involuntary context switches: 197012
+	Swaps: 0
+	File system inputs: 8480
+	File system outputs: 40904
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/20.avi
+
+2021-05-14 10:35:23.578017: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-14 10:35:23.598839: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-14 10:35:23.599126: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55ff9d782950 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-14 10:35:23.599174: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 25.0
+Output path is ../results/DeepLearning/mini/20_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.198948002207282
+Video length processed in frames: 100
+Mean fps till here=3.399133761860042
+Video length processed in frames: 150
+Mean fps till here=3.4775182030129685
+Video length processed in frames: 200
+Mean fps till here=3.518915784009838
+Video length processed in frames: 250
+Mean fps till here=3.539316801105221
+Video length processed in frames: 300
+Mean fps till here=3.552140067144188
+Video length processed in frames: 350
+Mean fps till here=3.5609644375066636
+Video length processed in frames: 400
+Mean fps till here=3.5726622966309947
+Cut Path ../results/DeepLearning/mini/20_cut.avi
+	Command being timed: "python3 -u deploy_no_stable.py -i ../mini-dataset/20.avi -o ../results/DeepLearning/mini/20_DL_stab_out.avi --model-dir ./models/v2_93/ --model-name model-90000 --gpu_memory_fraction 0.9"
+	User time (seconds): 485.82
+	System time (seconds): 10.68
+	Percent of CPU this job got: 272%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:02.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2277332
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3148402
+	Voluntary context switches: 365019
+	Involuntary context switches: 121551
+	Swaps: 0
+	File system inputs: 10128
+	File system outputs: 23368
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/5.avi
+
+2021-05-14 10:38:25.637744: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-14 10:38:25.658840: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-14 10:38:25.659135: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x56305b39aaf0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-14 10:38:25.659182: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 30.0
+Output path is ../results/DeepLearning/mini/5_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.15435266259359
+Video length processed in frames: 100
+Mean fps till here=3.367840517314199
+Video length processed in frames: 150
+Mean fps till here=3.4429514954214033
+Video length processed in frames: 200
+Mean fps till here=3.485407956253971
+Video length processed in frames: 250
+Mean fps till here=3.510655562268563
+Video length processed in frames: 300
+Mean fps till here=3.529820512631482
+Video length processed in frames: 350
+Mean fps till here=3.5396619490010335
+Video length processed in frames: 400
+Mean fps till here=3.545133861607756
+Video length processed in frames: 450
+Mean fps till here=3.5467832599664244
+Video length processed in frames: 500
+Mean fps till here=3.5514259896111944
+Video length processed in frames: 550
+Mean fps till here=3.553550191068695
+Cut Path ../results/DeepLearning/mini/5_cut.avi
+	Command being timed: "python3 -u deploy_no_stable.py -i ../mini-dataset/5.avi -o ../results/DeepLearning/mini/5_DL_stab_out.avi --model-dir ./models/v2_93/ --model-name model-90000 --gpu_memory_fraction 0.9"
+	User time (seconds): 658.60
+	System time (seconds): 12.65
+	Percent of CPU this job got: 273%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:05.59
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2332388
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2813940
+	Voluntary context switches: 473866
+	Involuntary context switches: 277520
+	Swaps: 0
+	File system inputs: 13984
+	File system outputs: 69760
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run11_clipped.avi
+
+2021-05-14 10:42:31.254809: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-14 10:42:31.274875: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-14 10:42:31.275177: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55c3cc9f90d0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-14 10:42:31.275223: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 20.0
+Output path is ../results/DeepLearning/mini/run11_clipped_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.158170100627789
+Video length processed in frames: 100
+Mean fps till here=3.398490520020897
+Cut Path ../results/DeepLearning/mini/run11_clipped_cut.avi
+	Command being timed: "python3 -u deploy_no_stable.py -i ../mini-dataset/run11_clipped.avi -o ../results/DeepLearning/mini/run11_clipped_DL_stab_out.avi --model-dir ./models/v2_93/ --model-name model-90000 --gpu_memory_fraction 0.9"
+	User time (seconds): 166.14
+	System time (seconds): 3.71
+	Percent of CPU this job got: 212%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:19.76
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2205544
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 987515
+	Voluntary context switches: 127436
+	Involuntary context switches: 34118
+	Swaps: 0
+	File system inputs: 2096
+	File system outputs: 3544
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run13_clipped.avi
+
+2021-05-14 10:43:51.010680: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-14 10:43:51.030831: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-14 10:43:51.031165: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x561a9ad75db0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-14 10:43:51.031223: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 20.0
+Output path is ../results/DeepLearning/mini/run13_clipped_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=2.915553086976434
+Video length processed in frames: 100
+Mean fps till here=3.1818694229338655
+Video length processed in frames: 150
+Mean fps till here=3.3158009865677105
+Video length processed in frames: 200
+Mean fps till here=3.3948906616459382
+Video length processed in frames: 250
+Mean fps till here=3.4439589286903773
+Cut Path ../results/DeepLearning/mini/run13_clipped_cut.avi
+	Command being timed: "python3 -u deploy_no_stable.py -i ../mini-dataset/run13_clipped.avi -o ../results/DeepLearning/mini/run13_clipped_DL_stab_out.avi --model-dir ./models/v2_93/ --model-name model-90000 --gpu_memory_fraction 0.9"
+	User time (seconds): 294.11
+	System time (seconds): 7.56
+	Percent of CPU this job got: 261%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:55.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2250932
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2171953
+	Voluntary context switches: 227665
+	Involuntary context switches: 93997
+	Swaps: 0
+	File system inputs: 4008
+	File system outputs: 6408
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run2_clipped.avi
+
+2021-05-14 10:45:46.328753: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-14 10:45:46.350645: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-14 10:45:46.350903: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x5600907d7ff0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-14 10:45:46.350931: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 20.0
+Output path is ../results/DeepLearning/mini/run2_clipped_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.133459831067507
+Video length processed in frames: 100
+Mean fps till here=3.3710803472359743
+Video length processed in frames: 150
+Mean fps till here=3.452729649246039
+Video length processed in frames: 200
+Mean fps till here=3.4950655463740814
+Cut Path ../results/DeepLearning/mini/run2_clipped_cut.avi
+	Command being timed: "python3 -u deploy_no_stable.py -i ../mini-dataset/run2_clipped.avi -o ../results/DeepLearning/mini/run2_clipped_DL_stab_out.avi --model-dir ./models/v2_93/ --model-name model-90000 --gpu_memory_fraction 0.9"
+	User time (seconds): 281.56
+	System time (seconds): 6.96
+	Percent of CPU this job got: 259%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:51.17
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2236588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2201733
+	Voluntary context switches: 217468
+	Involuntary context switches: 43952
+	Swaps: 0
+	File system inputs: 2056
+	File system outputs: 5976
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run3_clipped.avi
+
+2021-05-14 10:47:37.506297: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-14 10:47:37.526845: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-14 10:47:37.527148: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55a54a5ed040 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-14 10:47:37.527203: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 20.0
+Output path is ../results/DeepLearning/mini/run3_clipped_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.119599296952487
+Video length processed in frames: 100
+Mean fps till here=3.3792576123822236
+Video length processed in frames: 150
+Mean fps till here=3.476600636966982
+Cut Path ../results/DeepLearning/mini/run3_clipped_cut.avi
+	Command being timed: "python3 -u deploy_no_stable.py -i ../mini-dataset/run3_clipped.avi -o ../results/DeepLearning/mini/run3_clipped_DL_stab_out.avi --model-dir ./models/v2_93/ --model-name model-90000 --gpu_memory_fraction 0.9"
+	User time (seconds): 193.60
+	System time (seconds): 3.86
+	Percent of CPU this job got: 221%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:29.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2264076
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1020138
+	Voluntary context switches: 143578
+	Involuntary context switches: 46129
+	Swaps: 0
+	File system inputs: 1832
+	File system outputs: 3752
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run5_clipped.avi
+
+2021-05-14 10:49:06.604924: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-05-14 10:49:06.630854: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2699905000 Hz
+2021-05-14 10:49:06.631199: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x558043315d20 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-05-14 10:49:06.631253: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+Inference with indices [1, 2, 4, 8, 16, 32]
+FPS rate at which processing 20.0
+Output path is ../results/DeepLearning/mini/run5_clipped_DL_stab_out.avi
+Video length processed in frames: 50
+Mean fps till here=3.151437774960674
+Video length processed in frames: 100
+Mean fps till here=3.397045236785927
+Cut Path ../results/DeepLearning/mini/run5_clipped_cut.avi
+	Command being timed: "python3 -u deploy_no_stable.py -i ../mini-dataset/run5_clipped.avi -o ../results/DeepLearning/mini/run5_clipped_DL_stab_out.avi --model-dir ./models/v2_93/ --model-name model-90000 --gpu_memory_fraction 0.9"
+	User time (seconds): 167.53
+	System time (seconds): 3.36
+	Percent of CPU this job got: 216%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:19.03
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2240240
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 953057
+	Voluntary context switches: 128532
+	Involuntary context switches: 48433
+	Swaps: 0
+	File system inputs: 2064
+	File system outputs: 3312
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
+Currently running on ../mini-dataset/10.avi
+
+	Command being timed: "python3 stabilization_avg.py -i ../mini-dataset/10.avi -o ../results/averaging-filter/mini/10_avg_stab_out.avi"
+	User time (seconds): 17.10
+	System time (seconds): 2.71
+	Percent of CPU this job got: 181%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:10.92
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 95080
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 114
+	Minor (reclaiming a frame) page faults: 476951
+	Voluntary context switches: 4944
+	Involuntary context switches: 611952
+	Swaps: 0
+	File system inputs: 44424
+	File system outputs: 22056
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/15.avi
+
+	Command being timed: "python3 stabilization_avg.py -i ../mini-dataset/15.avi -o ../results/averaging-filter/mini/15_avg_stab_out.avi"
+	User time (seconds): 19.48
+	System time (seconds): 2.52
+	Percent of CPU this job got: 253%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.66
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 96276
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 290131
+	Voluntary context switches: 5369
+	Involuntary context switches: 385490
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 20600
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/1.avi
+
+	Command being timed: "python3 stabilization_avg.py -i ../mini-dataset/1.avi -o ../results/averaging-filter/mini/1_avg_stab_out.avi"
+	User time (seconds): 19.28
+	System time (seconds): 2.06
+	Percent of CPU this job got: 259%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:08.24
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 98108
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 39884
+	Voluntary context switches: 5524
+	Involuntary context switches: 302555
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 12080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/20.avi
+
+	Command being timed: "python3 stabilization_avg.py -i ../mini-dataset/20.avi -o ../results/averaging-filter/mini/20_avg_stab_out.avi"
+	User time (seconds): 32.16
+	System time (seconds): 3.69
+	Percent of CPU this job got: 266%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:13.44
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 99552
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 29561
+	Voluntary context switches: 9580
+	Involuntary context switches: 186223
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 13472
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/5.avi
+
+	Command being timed: "python3 stabilization_avg.py -i ../mini-dataset/5.avi -o ../results/averaging-filter/mini/5_avg_stab_out.avi"
+	User time (seconds): 24.73
+	System time (seconds): 3.44
+	Percent of CPU this job got: 247%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:11.38
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 95264
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 757449
+	Voluntary context switches: 6664
+	Involuntary context switches: 225406
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 18632
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run11_clipped.avi
+
+	Command being timed: "python3 stabilization_avg.py -i ../mini-dataset/run11_clipped.avi -o ../results/averaging-filter/mini/run11_clipped_avg_stab_out.avi"
+	User time (seconds): 6.35
+	System time (seconds): 0.90
+	Percent of CPU this job got: 234%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.09
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 104416
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 104118
+	Voluntary context switches: 1435
+	Involuntary context switches: 78806
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2080
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run13_clipped.avi
+
+	Command being timed: "python3 stabilization_avg.py -i ../mini-dataset/run13_clipped.avi -o ../results/averaging-filter/mini/run13_clipped_avg_stab_out.avi"
+	User time (seconds): 13.25
+	System time (seconds): 1.85
+	Percent of CPU this job got: 240%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.29
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 100840
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 293509
+	Voluntary context switches: 2984
+	Involuntary context switches: 66373
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 3976
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run2_clipped.avi
+
+	Command being timed: "python3 stabilization_avg.py -i ../mini-dataset/run2_clipped.avi -o ../results/averaging-filter/mini/run2_clipped_avg_stab_out.avi"
+	User time (seconds): 11.24
+	System time (seconds): 1.34
+	Percent of CPU this job got: 240%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 101760
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 107990
+	Voluntary context switches: 2759
+	Involuntary context switches: 69684
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1992
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run3_clipped.avi
+
+	Command being timed: "python3 stabilization_avg.py -i ../mini-dataset/run3_clipped.avi -o ../results/averaging-filter/mini/run3_clipped_avg_stab_out.avi"
+	User time (seconds): 7.48
+	System time (seconds): 0.98
+	Percent of CPU this job got: 241%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.50
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 105844
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 26388
+	Voluntary context switches: 1694
+	Involuntary context switches: 50845
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1880
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run5_clipped.avi
+
+	Command being timed: "python3 stabilization_avg.py -i ../mini-dataset/run5_clipped.avi -o ../results/averaging-filter/mini/run5_clipped_avg_stab_out.avi"
+	User time (seconds): 6.79
+	System time (seconds): 1.03
+	Percent of CPU this job got: 230%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:03.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 102284
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 229068
+	Voluntary context switches: 1533
+	Involuntary context switches: 81355
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 2104
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
+Currently running on ../mini-dataset/10.avi
+
+Number of frames in file are 404
+Solution converged
+	Command being timed: "python3 L1optimal.py -i ../mini-dataset/10.avi -o ../results/L1/mini/10_L1_out.avi -crop-ratio 0.7"
+	User time (seconds): 26.12
+	System time (seconds): 5.04
+	Percent of CPU this job got: 180%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:17.26
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 132892
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 116
+	Minor (reclaiming a frame) page faults: 484993
+	Voluntary context switches: 4803
+	Involuntary context switches: 879707
+	Swaps: 0
+	File system inputs: 30448
+	File system outputs: 47464
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/15.avi
+
+Number of frames in file are 479
+Solution converged
+	Command being timed: "python3 L1optimal.py -i ../mini-dataset/15.avi -o ../results/L1/mini/15_L1_out.avi -crop-ratio 0.7"
+	User time (seconds): 37.70
+	System time (seconds): 6.42
+	Percent of CPU this job got: 173%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:25.44
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 139596
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 414352
+	Voluntary context switches: 5377
+	Involuntary context switches: 1180486
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 44392
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/1.avi
+
+Number of frames in file are 498
+Solution converged
+	Command being timed: "python3 L1optimal.py -i ../mini-dataset/1.avi -o ../results/L1/mini/1_L1_out.avi -crop-ratio 0.7"
+	User time (seconds): 41.33
+	System time (seconds): 5.70
+	Percent of CPU this job got: 160%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:29.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 142120
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 129506
+	Voluntary context switches: 5653
+	Involuntary context switches: 1004059
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 32960
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/20.avi
+
+Number of frames in file are 881
+Solution converged
+	Command being timed: "python3 L1optimal.py -i ../mini-dataset/20.avi -o ../results/L1/mini/20_L1_out.avi -crop-ratio 0.7"
+	User time (seconds): 88.53
+	System time (seconds): 9.92
+	Percent of CPU this job got: 146%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:07.23
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 180868
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 296390
+	Voluntary context switches: 9404
+	Involuntary context switches: 1782339
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 53888
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/5.avi
+
+Number of frames in file are 599
+Solution converged
+	Command being timed: "python3 L1optimal.py -i ../mini-dataset/5.avi -o ../results/L1/mini/5_L1_out.avi -crop-ratio 0.7"
+	User time (seconds): 38.27
+	System time (seconds): 7.09
+	Percent of CPU this job got: 207%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:21.89
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 148740
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 133091
+	Voluntary context switches: 6467
+	Involuntary context switches: 1339705
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 49048
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run11_clipped.avi
+
+Number of frames in file are 127
+Solution converged
+	Command being timed: "python3 L1optimal.py -i ../mini-dataset/run11_clipped.avi -o ../results/L1/mini/run11_clipped_L1_out.avi -crop-ratio 0.7"
+	User time (seconds): 8.85
+	System time (seconds): 1.73
+	Percent of CPU this job got: 204%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.18
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 104572
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 150108
+	Voluntary context switches: 1523
+	Involuntary context switches: 218843
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 7472
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run13_clipped.avi
+
+Number of frames in file are 263
+Solution converged
+	Command being timed: "python3 L1optimal.py -i ../mini-dataset/run13_clipped.avi -o ../results/L1/mini/run13_clipped_L1_out.avi -crop-ratio 0.7"
+	User time (seconds): 19.54
+	System time (seconds): 2.92
+	Percent of CPU this job got: 186%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:12.06
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 121472
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 220281
+	Voluntary context switches: 2967
+	Involuntary context switches: 461240
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 15192
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run2_clipped.avi
+
+Number of frames in file are 247
+Solution converged
+	Command being timed: "python3 L1optimal.py -i ../mini-dataset/run2_clipped.avi -o ../results/L1/mini/run2_clipped_L1_out.avi -crop-ratio 0.7"
+	User time (seconds): 18.04
+	System time (seconds): 3.92
+	Percent of CPU this job got: 205%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:10.67
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 116340
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 208295
+	Voluntary context switches: 2880
+	Involuntary context switches: 209175
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 12800
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run3_clipped.avi
+
+Number of frames in file are 152
+Solution converged
+	Command being timed: "python3 L1optimal.py -i ../mini-dataset/run3_clipped.avi -o ../results/L1/mini/run3_clipped_L1_out.avi -crop-ratio 0.7"
+	User time (seconds): 11.52
+	System time (seconds): 2.16
+	Percent of CPU this job got: 203%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:06.73
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 113848
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 191874
+	Voluntary context switches: 1801
+	Involuntary context switches: 123015
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8384
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../mini-dataset/run5_clipped.avi
+
+Number of frames in file are 130
+Solution converged
+	Command being timed: "python3 L1optimal.py -i ../mini-dataset/run5_clipped.avi -o ../results/L1/mini/run5_clipped_L1_out.avi -crop-ratio 0.7"
+	User time (seconds): 10.02
+	System time (seconds): 1.89
+	Percent of CPU this job got: 204%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.81
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 112644
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 107321
+	Voluntary context switches: 1520
+	Involuntary context switches: 233432
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 7616
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
+Currently running on ../../mini-dataset/10.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/362
+Tracking Features in Frame: 50/362
+Tracking Features in Frame: 100/362
+Tracking Features in Frame: 150/362
+Tracking Features in Frame: 200/362
+Tracking Features in Frame: 250/362
+Tracking Features in Frame: 300/362
+Tracking Features in Frame: 350/362
+Overall reconstruction error:0.264
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:24,15,618,303
+Done
+	Command being timed: "python3 subSpace.py -i ../../mini-dataset/10.avi -o ../../results/subSpace/mini/10_subSpace_out.avi"
+	User time (seconds): 590.18
+	System time (seconds): 78.91
+	Percent of CPU this job got: 300%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:42.39
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1645788
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3509779
+	Voluntary context switches: 19010
+	Involuntary context switches: 56698222
+	Swaps: 0
+	File system inputs: 304
+	File system outputs: 73512
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../../mini-dataset/15.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/437
+Tracking Features in Frame: 50/437
+Tracking Features in Frame: 100/437
+Tracking Features in Frame: 150/437
+Tracking Features in Frame: 200/437
+Tracking Features in Frame: 250/437
+Tracking Features in Frame: 300/437
+Tracking Features in Frame: 350/437
+Tracking Features in Frame: 400/437
+Overall reconstruction error:0.072
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:18,18,624,300
+Done
+	Command being timed: "python3 subSpace.py -i ../../mini-dataset/15.avi -o ../../results/subSpace/mini/15_subSpace_out.avi"
+	User time (seconds): 592.15
+	System time (seconds): 83.70
+	Percent of CPU this job got: 300%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:44.65
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2094448
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3562444
+	Voluntary context switches: 20979
+	Involuntary context switches: 57314340
+	Swaps: 0
+	File system inputs: 8
+	File system outputs: 80400
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../../mini-dataset/1.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/456
+Tracking Features in Frame: 50/456
+Tracking Features in Frame: 100/456
+Tracking Features in Frame: 150/456
+Tracking Features in Frame: 200/456
+Tracking Features in Frame: 250/456
+Tracking Features in Frame: 300/456
+Tracking Features in Frame: 350/456
+Tracking Features in Frame: 400/456
+Tracking Features in Frame: 450/456
+Overall reconstruction error:1.221
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:21,18,588,297
+Done
+	Command being timed: "python3 subSpace.py -i ../../mini-dataset/1.avi -o ../../results/subSpace/mini/1_subSpace_out.avi"
+	User time (seconds): 619.42
+	System time (seconds): 69.60
+	Percent of CPU this job got: 287%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 3:59.89
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 2301704
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 3795699
+	Voluntary context switches: 18346
+	Involuntary context switches: 44915932
+	Swaps: 0
+	File system inputs: 776
+	File system outputs: 68264
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../../mini-dataset/20.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/839
+Tracking Features in Frame: 50/839
+Tracking Features in Frame: 100/839
+Tracking Features in Frame: 150/839
+Tracking Features in Frame: 200/839
+Tracking Features in Frame: 250/839
+Tracking Features in Frame: 300/839
+Tracking Features in Frame: 350/839
+Tracking Features in Frame: 400/839
+Tracking Features in Frame: 450/839
+Tracking Features in Frame: 500/839
+Tracking Features in Frame: 550/839
+Tracking Features in Frame: 600/839
+Tracking Features in Frame: 650/839
+Tracking Features in Frame: 700/839
+Tracking Features in Frame: 750/839
+Tracking Features in Frame: 800/839
+Overall reconstruction error:1.502
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:18,12,627,309
+Done
+	Command being timed: "python3 subSpace.py -i ../../mini-dataset/20.avi -o ../../results/subSpace/mini/20_subSpace_out.avi"
+	User time (seconds): 1419.32
+	System time (seconds): 145.49
+	Percent of CPU this job got: 261%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:58.86
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 5096416
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 7
+	Minor (reclaiming a frame) page faults: 6243288
+	Voluntary context switches: 34200
+	Involuntary context switches: 97080783
+	Swaps: 0
+	File system inputs: 1744
+	File system outputs: 95752
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../../mini-dataset/5.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/557
+Tracking Features in Frame: 50/557
+Tracking Features in Frame: 100/557
+Tracking Features in Frame: 150/557
+Tracking Features in Frame: 200/557
+Tracking Features in Frame: 250/557
+Tracking Features in Frame: 300/557
+Tracking Features in Frame: 350/557
+Tracking Features in Frame: 400/557
+Tracking Features in Frame: 450/557
+Tracking Features in Frame: 500/557
+Tracking Features in Frame: 550/557
+Overall reconstruction error:6.107
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:24,9,615,309
+Done
+	Command being timed: "python3 subSpace.py -i ../../mini-dataset/5.avi -o ../../results/subSpace/mini/5_subSpace_out.avi"
+	User time (seconds): 1175.12
+	System time (seconds): 150.00
+	Percent of CPU this job got: 272%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:05.77
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3184364
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 89
+	Minor (reclaiming a frame) page faults: 5062502
+	Voluntary context switches: 30392
+	Involuntary context switches: 113969699
+	Swaps: 0
+	File system inputs: 25968
+	File system outputs: 106672
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../../mini-dataset/run11_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/87
+Tracking Features in Frame: 50/87
+Overall reconstruction error:2.650
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:30,54,600,246
+Done
+	Command being timed: "python3 subSpace.py -i ../../mini-dataset/run11_clipped.avi -o ../../results/subSpace/mini/run11_clipped_subSpace_out.avi"
+	User time (seconds): 82.76
+	System time (seconds): 14.84
+	Percent of CPU this job got: 348%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:28.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 519504
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 931489
+	Voluntary context switches: 4622
+	Involuntary context switches: 8574392
+	Swaps: 0
+	File system inputs: 2096
+	File system outputs: 6416
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../../mini-dataset/run13_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/223
+Tracking Features in Frame: 50/223
+Tracking Features in Frame: 100/223
+Tracking Features in Frame: 150/223
+Tracking Features in Frame: 200/223
+Overall reconstruction error:2.794
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:78,114,561,207
+Done
+	Command being timed: "python3 subSpace.py -i ../../mini-dataset/run13_clipped.avi -o ../../results/subSpace/mini/run13_clipped_subSpace_out.avi"
+	User time (seconds): 203.33
+	System time (seconds): 28.62
+	Percent of CPU this job got: 336%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:09.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 818708
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2196803
+	Voluntary context switches: 8088
+	Involuntary context switches: 14364369
+	Swaps: 0
+	File system inputs: 4008
+	File system outputs: 13600
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../../mini-dataset/run2_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/207
+Tracking Features in Frame: 50/207
+Tracking Features in Frame: 100/207
+Tracking Features in Frame: 150/207
+Tracking Features in Frame: 200/207
+Overall reconstruction error:0.724
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:42,24,528,258
+Done
+	Command being timed: "python3 subSpace.py -i ../../mini-dataset/run2_clipped.avi -o ../../results/subSpace/mini/run2_clipped_subSpace_out.avi"
+	User time (seconds): 128.43
+	System time (seconds): 39.42
+	Percent of CPU this job got: 360%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:46.56
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 799340
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 2165361
+	Voluntary context switches: 8331
+	Involuntary context switches: 27074634
+	Swaps: 0
+	File system inputs: 2048
+	File system outputs: 13304
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../../mini-dataset/run3_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/112
+Tracking Features in Frame: 50/112
+Tracking Features in Frame: 100/112
+Overall reconstruction error:1.610
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:30,39,597,246
+Done
+	Command being timed: "python3 subSpace.py -i ../../mini-dataset/run3_clipped.avi -o ../../results/subSpace/mini/run3_clipped_subSpace_out.avi"
+	User time (seconds): 80.98
+	System time (seconds): 16.06
+	Percent of CPU this job got: 319%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:30.34
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 569848
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1122126
+	Voluntary context switches: 6131
+	Involuntary context switches: 8199760
+	Swaps: 0
+	File system inputs: 1816
+	File system outputs: 7488
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+Currently running on ../../mini-dataset/run5_clipped.avi
+
+width: 640, height:320
+Building image pyramid...
+Tracking Features in Frame: 0/90
+Tracking Features in Frame: 50/90
+Overall reconstruction error:3.526
+Smoothing...
+Warping...
+Done
+Cropping...
+roi:42,84,579,171
+Done
+	Command being timed: "python3 subSpace.py -i ../../mini-dataset/run5_clipped.avi -o ../../results/subSpace/mini/run5_clipped_subSpace_out.avi"
+	User time (seconds): 83.19
+	System time (seconds): 15.40
+	Percent of CPU this job got: 346%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:28.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 527980
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 981403
+	Voluntary context switches: 4607
+	Involuntary context switches: 9483140
+	Swaps: 0
+	File system inputs: 2064
+	File system outputs: 5504
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
+
